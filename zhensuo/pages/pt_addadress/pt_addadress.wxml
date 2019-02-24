@@ -1,0 +1,46 @@
+<view class='authentication_wrap'>
+    <view class='authentication_list authentication_name'>
+        <view class='left'>
+            <image src='../../status/1.jpg' class='icon'></image>
+            <text class='title_name'>收货人</text>
+            <input bindinput="receiveMan" placeholder='请输入' class='get_value'></input>
+        </view>
+
+    </view>
+    <view class='authentication_list authentication_name'>
+        <view class='left'>
+            <image src='../../status/3.jpg' class='icon'></image>
+            <text class='title_name'>手机号</text>
+            <input bindinput="moblieInput" placeholder='请输入' class='get_value'></input>
+        </view>
+
+    </view>
+    <view class='authentication_list authentication_address'>
+        <view class='left'>
+            <image src='../../status/12.jpg' class='icon'></image>
+            <text class='title_name'>所在地区</text>
+
+        </view>
+        <view class='right'>
+            <image src='../../status/16.jpg' class='icon_adress'></image>
+            <text class='message_click'>点击选择</text>
+            <image src='../../status/6.jpg' class='icon_adress'></image>
+        </view>
+    </view>
+    <view class='authentication_list authentication_plate'>
+        <view class='left'>
+            <text class='title_name title_plate'>详细地址</text>
+            <input bindinput="addressdetailInput" placeholder='请输入' class='get_value get_value1'></input>
+        </view>
+    </view>
+    <!--<view class='user_list users_name'>
+        <image src='../../status/1.jpg'></image>
+        <text>联系人</text>
+        <input placeholder='请输入'></input>
+    </view>-->
+
+
+
+
+</view>
+<button class='apply' bindtap="saveaddress" hover-class='clickone'>保存</button>

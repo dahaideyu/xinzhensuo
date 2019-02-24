@@ -1,0 +1,65 @@
+page {
+    background: #f4f4f4;
+}
+
+.item_tobepay {
+    background: #fff;
+    margin-top: 30rpx;
+    overflow: hidden;
+    padding: 30rpx;
+}
+
+.left {
+    float: left;
+    width: 225rpx;
+    height: 160rpx;
+}
+
+.left>image {
+    width: 100%;
+    height: 100%;
+    border-radius: 10rpx;
+}
+
+.right {
+    float: left;
+    margin-left: 30rpx;
+}
+
+.right>view:first-child {
+    color: #666;
+    font-size: 30rpx;
+}
+
+.right>view:nth-child(2) {
+    color: #ff0651;
+    font-size: 28rpx;
+    line-height: 70rpx;
+}
+
+.wrap {
+    width: 100%;
+}
+
+.wrap>text:first-child {
+    color: #00acc0;
+    font-size: 30rpx;
+}
+
+.wrap>text:nth-child(2) {
+    border: 1px solid #00acc0;
+    border-radius: 15rpx;
+    font-size: 30rpx;
+    color: #00acc0;
+    padding: 10rpx 30rpx;
+    margin-left: 30rpx;
+}
+
+.wrap>text:last-child {
+    background: #00acc0;
+    border-radius: 15rpx;
+    font-size: 30rpx;
+    color: #fff;
+    padding: 10rpx 20rpx;
+    margin-left: 30rpx;
+}

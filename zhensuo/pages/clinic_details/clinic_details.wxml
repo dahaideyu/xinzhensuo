@@ -1,0 +1,48 @@
+<view class='title'>
+    <view>
+        <text class='clinic_name'> 宝芝堂</text>
+        <text class='clinic_status'>审核中</text>
+    </view>
+    <view>
+        <text class='dates'>2018-10-12</text>
+    </view>
+</view>
+<!-- 详情 -->
+<view class='details'>
+    <view class='details_wrap'>
+        <view class='left'>
+            <view class='user_name'>
+                <text>马冬梅</text>
+                <text>12345678910</text>
+            </view>
+            <view>
+                <text>大西北天桥巷110号三大院一栋</text>
+            </view>
+        </view>
+        <view class='right'>
+            <image src='https://t1.hddhhn.com/uploads/tu/201901/95/5c2773a1c5760.jpg'></image>
+        </view>
+    </view>
+    <!-- 医生头像信息简介 -->
+    <view class='doctor'>
+        <view class='doctor_message'>
+            <view class='head'>
+                <image src='https://ss0.bdstatic.com/94oJfD_bAAcT8t7mm9GUKT-xh_/timg?image&quality=100&size=b4000_4000&sec=1547355485&di=f8dde1f85d64e1e7b1ac45d7d2db7462&src=http://pic11.nipic.com/20101217/2531170_114745343924_2.jpg'></image>
+            </view>
+            <view class='doctor_name'>张医生</view>
+            <view class='docto_text'>
+                <text class='doctos_message'>擅长各种妇科疾病，擅长临床诊治，擅长中医药理，精通各种巴拉巴拉</text>
+            </view>
+        </view>
+        <view class='doctor_message'>
+            <view class='head'>
+                <image src='https://ss0.bdstatic.com/94oJfD_bAAcT8t7mm9GUKT-xh_/timg?image&quality=100&size=b4000_4000&sec=1547355485&di=f8dde1f85d64e1e7b1ac45d7d2db7462&src=http://pic11.nipic.com/20101217/2531170_114745343924_2.jpg'></image>
+            </view>
+            <view class='doctor_name'>张医生</view>
+            <view class='docto_text'>
+                <text class='doctos_message'>擅长各种妇科疾病，擅长临床诊治，擅长中医药理，精通各种巴拉巴拉</text>
+            </view>
+        </view>
+    </view>
+</view>
+<button class='add_clinic' hover-class='add_class'>添加新诊所</button>

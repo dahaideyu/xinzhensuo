@@ -1,0 +1,54 @@
+<view class='item_tobepay'>
+    <view class='left'>
+        <image src='https://t1.hddhhn.com/uploads/tu/201901/248/1.jpg'></image>
+    </view>
+    <view class='right'>
+        <view>马栏山特产牙刷</view>
+        <view>￥999999.00</view>
+        <view class='wrap'>
+            <text>待支付</text>
+            <text>取消</text>
+            <text style='margin-left:56rpx;'>去支付</text>
+        </view>
+    </view>
+</view>
+<view class='item_tobepay'>
+    <view class='left'>
+        <image src='https://t1.hddhhn.com/uploads/tu/201901/248/1.jpg'></image>
+    </view>
+    <view class='right'>
+        <view>马栏山特产牙刷</view>
+        <view>￥999999.00</view>
+        <view class='wrap'>
+            <text>已发货</text>
+            <text style='margin-left:180rpx;'>查看物流</text>
+        </view>
+    </view>
+</view>
+<view class='item_tobepay'>
+    <view class='left'>
+        <image src='https://t1.hddhhn.com/uploads/tu/201901/248/1.jpg'></image>
+    </view>
+    <view class='right'>
+        <view>马栏山特产牙刷</view>
+        <view>￥999999.00</view>
+        <view class='wrap'>
+            <text>已完成</text>
+            <text>删除</text>
+            <text>查看物流</text>
+        </view>
+    </view>
+</view>
+<view class='item_tobepay'>
+    <view class='left'>
+        <image src='https://t1.hddhhn.com/uploads/tu/201901/248/1.jpg'></image>
+    </view>
+    <view class='right'>
+        <view>马栏山特产牙刷</view>
+        <view>￥999999.00</view>
+        <view class='wrap'>
+            <text>已取消</text>
+            <text style='margin-left:240rpx;'>删除</text>
+        </view>
+    </view>
+</view>

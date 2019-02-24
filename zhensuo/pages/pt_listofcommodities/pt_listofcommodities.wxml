@@ -1,0 +1,55 @@
+<view>
+    <scroll-view scroll-x="true" class="tab-h" scroll-left="{{scrollLeft}}">
+        <view class="tab-item {{currentTab==0?'active':''}}" data-current="0" bindtap="swichNav">商品</view>
+        <view class="tab-item {{currentTab==1?'active':''}}" data-current="1" bindtap="swichNav">卡包</view>
+    </scroll-view>
+    <swiper wx:if="{{currentTab==0}}" class="tab-content" current="{{currentTab}}" duration="300" bindchange="switchTab" style="height:{{winHeight}}rpx">
+        <swiper-item  >
+            <scroll-view scroll-y="true" class="scoll-h">
+                <block wx:key="*this">
+                    <view class="item-ans" wx:for="{{goods}}">
+                        <view class="avatar">
+                            <image class="img" src="{{item.image}}" bindtap="pdetail" data-pid="{{item.goodsId}}"></image>
+                        </view>
+                        <view class="expertInfo">
+                            <view class="name">{{item.goodsName}}</view>
+                            <view class="tag">￥{{item.price/100.0}}</view>
+                            <view class="answerHistory">
+                                <text>售出{{item.sellCount}}件</text>
+                                <text>剩余<text class='red'>{{item.stockCount}}</text>件</text>
+                            </view>
+                        </view>
+                        <view bindtap="Collection" data-cvalue="{{item.isCollection}}" data-goodid="{{item.goodsId}}" class="askBtn">
+                            <image src='{{item.isCollection==1?"../../status/27.jpg":"../../status/26.jpg"}}' class='like'></image>
+                        </view>
+                    </view>
+               
+                </block>
+            </scroll-view>
+        </swiper-item>
+    </swiper >
+        <swiper wx:if="{{currentTab==1}}" class="tab-content" current="{{currentTab}}" duration="300" bindchange="switchTab" style="height:{{winHeight}}rpx">
+        <swiper-item wx:for="{{[0,1]}}">
+            <scroll-view scroll-y="true" class="scoll-h">
+                <block wx:key="*this">
+                    <view class="item-ans" wx:for="{{cards}}">
+                        <view class="avatar">
+                            <image class="img" src="{{item.image}}"  bindtap="pdetail" data-pid="{{item.goodsId}}"></image>
+                        </view>
+                        <view class="expertInfo">
+                            <view class="name">{{item.goodsName}}</view>
+                            <view class="tag">￥{{item.price/100.0}}</view>
+                            <view class="answerHistory">
+                                <text>售出{{item.sellCount}}件</text>
+                                <text>剩余<text class='red'>{{item.stockCount}}</text>件</text>
+                            </view>
+                        </view>
+                        <navigator url="/pages/askExpert/expertDetail" class="askBtn">
+                            <image src='{{item.isCollection==1?"../../status/27.jpg":"../../status/26.jpg"}}' class='like'></image>
+                        </navigator>
+                    </view> 
+                </block>
+            </scroll-view>
+        </swiper-item>
+    </swiper>
+</view>

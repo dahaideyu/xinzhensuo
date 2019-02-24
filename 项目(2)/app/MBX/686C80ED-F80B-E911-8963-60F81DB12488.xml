@@ -1,0 +1,111 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="686C80ED-F80B-E911-8963-60F81DB12488" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="11">
+    <control controlID="88939529-F70B-E911-8963-60F81DB12488" controlTypeID="Shape" x="10" y="98" w="355" h="130" zOrder="0">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="F095F077-F70B-E911-8963-60F81DB12488" linkType="ltPageLink" isApplyIncludePage="False" title="%E9%A2%84%E8%A7%88">
+          <area shape="0" alt="" ID="{D615E002-F90B-E911-8963-60F81DB12488}" coords="(0,0,355,130)"/>
+        </link>
+      </links>
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="C828422F-F70B-E911-8963-60F81DB12488" controlTypeID="Label" x="16" y="108" w="70" h="20" zOrder="1">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="F095F077-F70B-E911-8963-60F81DB12488" linkType="ltPageLink" isApplyIncludePage="False" title="%E9%A2%84%E8%A7%88">
+          <area shape="0" alt="" ID="{B667E002-F90B-E911-8963-60F81DB12488}" coords="(0,0,70,20)"/>
+        </link>
+      </links>
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>%E8%BF%99%E9%87%8C%E6%98%AF%E6%A0%87%E9%A2%98</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="EC1E4238-F70B-E911-8963-60F81DB12488" controlTypeID="TextArea" x="16" y="131" w="252" h="87" zOrder="2">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="F095F077-F70B-E911-8963-60F81DB12488" linkType="ltPageLink" isApplyIncludePage="False" title="%E9%A2%84%E8%A7%88">
+          <area shape="0" alt="" ID="{C200E102-F90B-E911-8963-60F81DB12488}" coords="(0,0,252,87)"/>
+        </link>
+      </links>
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Fusce+egestas+facilisis+lorem%2C+in+egestas+massa+sollicitudin+at.+Suspendisse+potenti.+Praesent+ornare+commodo+quam%2C+a+tincidunt+nulla+tempor+eget.+Nam+libero+ligula%2C+ultrices+malesuada+rutrum+non%2C+vestibulum+eu+libero.+Proin+sed+enim+eu+lorem+facilisis+rhoncus.+Aliquam+erat+volutpat.+Ut+posuere+eleifend+congue.+Nulla+viverra+eros+ac+est+vestibulum%2C+et+sollicitudin+enim+dictum.+Sed+ut+justo+volutpat+mauris+condimentum+aliquam+sed+consectetur+nisi.+Morbi+ac+nulla+sollicitudin%2C+sodales+leo+sed%2C+vestibulum+justo.%0D%0A</text>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="D2674844-F70B-E911-8963-60F81DB12488" controlTypeID="Image" x="276" y="140" w="81" h="69" zOrder="3">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="F095F077-F70B-E911-8963-60F81DB12488" linkType="ltPageLink" isApplyIncludePage="False" title="%E9%A2%84%E8%A7%88">
+          <area shape="0" alt="" ID="{0243E102-F90B-E911-8963-60F81DB12488}" coords="(0,0,81,69)"/>
+        </link>
+      </links>
+    </control>
+    <control controlID="10C9856C-F70B-E911-8963-60F81DB12488" controlTypeID="Shape" x="10" y="238" w="355" h="130" zOrder="4">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="F095F077-F70B-E911-8963-60F81DB12488" linkType="ltPageLink" isApplyIncludePage="False" title="%E9%A2%84%E8%A7%88">
+          <area shape="0" alt="" ID="{9E60E102-F90B-E911-8963-60F81DB12488}" coords="(0,0,355,130)"/>
+        </link>
+      </links>
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="9CC9856C-F70B-E911-8963-60F81DB12488" controlTypeID="Label" x="16" y="248" w="70" h="20" zOrder="5">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="F095F077-F70B-E911-8963-60F81DB12488" linkType="ltPageLink" isApplyIncludePage="False" title="%E9%A2%84%E8%A7%88">
+          <area shape="0" alt="" ID="{AEA0E102-F90B-E911-8963-60F81DB12488}" coords="(0,0,70,20)"/>
+        </link>
+      </links>
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>%E8%BF%99%E9%87%8C%E6%98%AF%E6%A0%87%E9%A2%98</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="00CA856C-F70B-E911-8963-60F81DB12488" controlTypeID="TextArea" x="16" y="271" w="252" h="87" zOrder="6">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="F095F077-F70B-E911-8963-60F81DB12488" linkType="ltPageLink" isApplyIncludePage="False" title="%E9%A2%84%E8%A7%88">
+          <area shape="0" alt="" ID="{AE31E202-F90B-E911-8963-60F81DB12488}" coords="(0,0,252,87)"/>
+        </link>
+      </links>
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Fusce+egestas+facilisis+lorem%2C+in+egestas+massa+sollicitudin+at.+Suspendisse+potenti.+Praesent+ornare+commodo+quam%2C+a+tincidunt+nulla+tempor+eget.+Nam+libero+ligula%2C+ultrices+malesuada+rutrum+non%2C+vestibulum+eu+libero.+Proin+sed+enim+eu+lorem+facilisis+rhoncus.+Aliquam+erat+volutpat.+Ut+posuere+eleifend+congue.+Nulla+viverra+eros+ac+est+vestibulum%2C+et+sollicitudin+enim+dictum.+Sed+ut+justo+volutpat+mauris+condimentum+aliquam+sed+consectetur+nisi.+Morbi+ac+nulla+sollicitudin%2C+sodales+leo+sed%2C+vestibulum+justo.%0D%0A</text>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="64CA856C-F70B-E911-8963-60F81DB12488" controlTypeID="Image" x="276" y="280" w="81" h="69" zOrder="7">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="F095F077-F70B-E911-8963-60F81DB12488" linkType="ltPageLink" isApplyIncludePage="False" title="%E9%A2%84%E8%A7%88">
+          <area shape="0" alt="" ID="{9473E202-F90B-E911-8963-60F81DB12488}" coords="(0,0,81,69)"/>
+        </link>
+      </links>
+    </control>
+    <control controlID="604B3025-F90B-E911-8963-60F81DB12488" controlTypeID="Label" x="238" y="108" w="117" h="20" zOrder="8">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>544%E4%BA%BA%E9%98%85%EF%BC%8C%E6%94%B6%E7%9B%8A588</text>
+      <textColor>4288256409</textColor>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="D2729C38-F90B-E911-8963-60F81DB12488" controlTypeID="Label" x="238" y="247" w="117" h="20" zOrder="9">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>544%E4%BA%BA%E9%98%85%EF%BC%8C%E6%94%B6%E7%9B%8A588</text>
+      <textColor>4288256409</textColor>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="C6A5D72D-FC0B-E911-B550-60F81DB12488" controlTypeID="Button" x="16" y="45" w="350" h="38" zOrder="10">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="E0C01DBC-FC0B-E911-B550-60F81DB12488" linkType="ltPageLink" isApplyIncludePage="False" title="%E6%A8%A1%E6%9D%BF%E5%88%97%E8%A1%A8">
+          <area shape="0" alt="" ID="{D4026F66-FD0B-E911-B550-60F81DB12488}" coords="(0,0,350,38)"/>
+        </link>
+      </links>
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>%E8%87%AA%E5%AE%9A%E4%B9%89%E5%8F%91%E5%B8%83</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

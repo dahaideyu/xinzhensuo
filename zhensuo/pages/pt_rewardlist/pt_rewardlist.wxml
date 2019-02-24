@@ -1,0 +1,117 @@
+<!--pages/ profit.wxml-->
+<view class='wrap'>
+    <view class='list'>
+        <view class='title'>
+            <text class='clinic_name'>文章标题</text>
+            <view class='time1'>
+                <text>+20积分</text>
+
+            </view>
+        </view>
+        <view class='amount'>
+            <view>
+                <text>标题：</text>
+                <text>巴拉巴拉</text>
+            </view>
+            <view class='time'>
+                <text>2018-10-10</text>
+                <text class='hour'>10:10</text>
+            </view>
+        </view>
+    </view>
+    <view class='list'>
+        <view class='title'>
+            <text class='clinic_name'>文章标题</text>
+            <view class='time1'>
+                <text>+20积分</text>
+
+            </view>
+        </view>
+        <view class='amount'>
+            <view>
+                <text>标题：</text>
+                <text>巴拉巴拉</text>
+            </view>
+            <view class='time'>
+                <text>2018-10-10</text>
+                <text class='hour'>10:10</text>
+            </view>
+        </view>
+    </view>
+    <view class='list'>
+        <view class='title'>
+            <text class='clinic_name'>文章标题</text>
+            <view class='time1'>
+                <text>+20积分</text>
+
+            </view>
+        </view>
+        <view class='amount'>
+            <view>
+                <text>标题：</text>
+                <text>巴拉巴拉</text>
+            </view>
+            <view class='time'>
+                <text>2018-10-10</text>
+                <text class='hour'>10:10</text>
+            </view>
+        </view>
+    </view>
+    <view class='list'>
+        <view class='title'>
+            <text class='clinic_name'>文章标题</text>
+            <view class='time1'>
+                <text>+20积分</text>
+            </view>
+        </view>
+        <view class='amount'>
+            <view>
+                <text>标题：</text>
+                <text>巴拉巴拉</text>
+            </view>
+            <view class='time'>
+                <text>2018-10-10</text>
+                <text class='hour'>10:10</text>
+            </view>
+        </view>
+    </view>
+    <view class='list'>
+        <view class='title'>
+            <text class='clinic_name'>文章标题</text>
+            <view class='time1'>
+                <text>+20积分</text>
+
+            </view>
+        </view>
+        <view class='amount'>
+            <view>
+                <text>标题：</text>
+                <text>巴拉巴拉</text>
+            </view>
+            <view class='time'>
+                <text>2018-10-10</text>
+                <text class='hour'>10:10</text>
+            </view>
+        </view>
+    </view>
+    <view class='list'>
+        <view class='title'>
+            <text class='clinic_name'>文章标题</text>
+            <view class='time1'>
+                <text>+20积分</text>
+
+            </view>
+        </view>
+        <view class='amount'>
+            <view>
+                <text>标题：</text>
+                <text>巴拉巴拉</text>
+            </view>
+            <view class='time'>
+                <text>2018-10-10</text>
+                <text class='hour'>10:10</text>
+            </view>
+        </view>
+    </view>
+    
+</view>

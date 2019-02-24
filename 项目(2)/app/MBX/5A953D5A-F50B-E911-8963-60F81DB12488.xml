@@ -1,0 +1,61 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="C606D2A3-850B-E911-8963-60F81DB12488" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325">
+  <controls controlCount="8">
+    <control controlID="D4DB9E0B-870B-E911-8963-60F81DB12488" controlTypeID="Shape" x="3" y="10" w="362" h="75" zOrder="0">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="4A571224-870B-E911-8963-60F81DB12488" controlTypeID="Icon" x="13" y="20" w="49" h="49" zOrder="1">
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62368</iconCode>
+      </icon>
+      <URL>B91434690C5B5224D1CC6B1998F1178A.svg</URL>
+    </control>
+    <control controlID="FE763D2A-870B-E911-8963-60F81DB12488" controlTypeID="Label" x="77" y="21" w="48" h="23" zOrder="2">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>%E5%BC%A0%E5%A4%A7%E7%88%B7</text>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="FE408D60-870B-E911-8963-60F81DB12488" controlTypeID="Label" x="12" y="114" w="84" h="20" zOrder="3">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>%E5%A7%93%E5%90%8D%EF%BC%9A%E5%BC%A0%E8%80%81%E4%B8%89</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="D2696A90-870B-E911-8963-60F81DB12488" controlTypeID="Label" x="12" y="207" w="142" h="20" zOrder="4">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>%E6%89%8B%E6%9C%BA%E5%8F%B7%EF%BC%9A19999988999</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="56CA4EE0-870B-E911-8963-60F81DB12488" controlTypeID="Label" x="12" y="158" w="205" h="20" zOrder="5">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>%E8%BA%AB%E4%BB%BD%E8%AF%81%E5%8F%B7%EF%BC%9A110222199911111991</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="742D9C41-F30B-E911-8963-60F81DB12488" controlTypeID="Label" x="80" y="49" w="42" h="20" zOrder="6">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>%E5%B7%B2%E8%AE%A4%E8%AF%81</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="2C5DD570-F30B-E911-8963-60F81DB12488" controlTypeID="Label" x="283" y="23" w="75" h="20" zOrder="7">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>2018%E5%B9%B410%E6%9C%88</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

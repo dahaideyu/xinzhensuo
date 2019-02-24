@@ -1,0 +1,162 @@
+/**index.wxss**/
+page{
+    background: #f4f4f4
+}
+.wrap{
+    font-size: 20rpx
+}
+.title{
+    width: 100%;
+    background: #00acc0;
+    overflow: hidden;
+    padding-bottom: 30rpx;
+}
+.head_portrait{
+    width: 150rpx;
+    height: 150rpx;
+    float: left;
+    border-radius: 50%;
+    margin-left: 25rpx
+}
+.user_name{
+    float: left;
+    font-size: 35rpx;
+    color: #fff;
+    height: 150rpx;
+    line-height: 150rpx;
+    padding-left: 25rpx;
+}
+.user_wrap{
+    overflow: hidden;
+}
+.click{
+    line-height: 100rpx;
+    font-size: 22rpx;
+    background: #fff;
+    color:#00acc0;
+    height: 100rpx;
+    border-top: none;
+    border-bottom: none;
+}
+.button-hover{
+    background: #00acc0;
+    color: #fff;
+}
+.apply{
+    position: absolute;
+    bottom: 0;
+    background: #00acc0;
+    width: 100%;
+    text-align: center;
+    color: #fff;
+    font-size: 35rpx;
+    height: 100rpx;
+    line-height: 100rpx;
+}
+.clickone{
+    background: #fff;
+    color: #00acc0;
+}
+button{
+    border: none;
+    border-radius: 0
+}
+button::after{
+    border: none;
+}
+.user_list{
+    padding-left: 30rpx;
+    padding-right: 30rpx;
+    background: #fff;
+    display: flex;
+    display: -webkit-flex;
+    justify-content: flex-start;
+    height: 100rpx;
+    line-height: 100rpx;
+    font-size: 30rpx;
+    border-top: 1px solid #eee;
+}
+.user_list>image{
+    width: 70rpx;
+    height: 50rpx;
+    display: block;
+    padding-top: 30rpx;
+}
+.user_list>text{
+    width: 200rpx;
+    color: grey;
+    padding-top: 5rpx;
+    padding-left: 10rpx;
+}
+.user_list>input{
+    height: 100%;
+    width: 90%;
+    text-align: right;
+    padding-left: 10rpx;
+}
+.users_phone{
+    margin-top: 30rpx;
+    border-bottom: 1px solid #eee;
+}
+.users_token{
+    width: 100%;
+    padding: 0 0 0 30rpx;
+    border-top: none;
+}
+.users_token>input{
+    width: 40%;
+    text-align: center;
+}
+.users_token>image{
+    width: 60rpx;
+    height: 50rpx;
+    display: block;
+    padding-top: 30rpx;
+}
+.add{
+    font-size: 25rpx;
+    width: 200rpx;
+    line-height: 100rpx;
+    color: #00acc0;
+    background: #fff;
+    border-left: 1px solid #ccc;
+}
+.add_token{
+    background: #00acc0;
+    color: #fff;
+}
+.users_city{
+    margin-top: 30rpx;
+}
+.city_left>image{
+    width:60rpx;
+    height: 50rpx;
+    display: block;
+    padding-top: 30rpx;
+    float: left
+}
+.city_left>text{
+    width: 200rpx;
+    color: grey;
+    padding-top: 5rpx;
+    padding-left: 10rpx;
+    float: left
+}
+.users_city>view{
+    width: 50%;
+}
+.city>image{
+    width: 20rpx;
+    height: 30rpx;
+    margin-top: 37rpx;
+    margin-left: 30rpx;
+    display: block;
+    float: right;
+}
+.city{
+    text-align: right;
+    color: grey;
+}
+.users{
+    margin: 0;
+}

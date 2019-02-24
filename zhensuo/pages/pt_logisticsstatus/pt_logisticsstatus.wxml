@@ -1,0 +1,59 @@
+<view class='title'>
+    <view class='img'>
+        <image src='../../status/i.png'></image>
+    </view>
+    <text class='title_name'>退货待发货</text>
+</view>
+<view class='xbq-express'>
+    <view class='lst'>
+        <text>订单编号</text>
+        <text>213156412315421</text>
+    </view>
+    <view class='lst'>
+        <text>快递单号</text>
+        <text>213156412315421</text>
+    </view>
+
+</view>
+<view class='wrapfirst'>
+
+
+
+    <view class="kuaidi_follow">
+        <view class="follow_title"></view>
+        <view class="follow_satus">
+            <view class="follow_address">
+                <view class="label default"></view>
+                <view class="address default">上海市|签收|上海市【宝山顾村】，拍照签收 已签收</view>
+                <view class="date default_date">
+                    <text>08-30</text>
+                    <text class="time">11:31:44</text>
+                </view>
+            </view>
+            <view class="follow_address">
+                <view class="label"></view>
+                <view class="address">上海市|派件|上海市【宝山顾村】，【冯师傅/18917596580】正在派件</view>
+                <view class="date">
+                    <text>08-30</text>
+                    <text class="time">11:31:44</text>
+                </view>
+            </view>
+            <view class="follow_address">
+                <view class="label"></view>
+                <view class="address">上海市|发件|上海市【上海转运中心】，正发往【上海嘉定转运中心】</view>
+                <view class="date">
+                    <text>08-30</text>
+                    <text class="time">11:31:44</text>
+                </view>
+            </view>
+            <view class="follow_address">
+                <view class="label"></view>
+                <view class="address">上海市|发件|上海市【上海转运中心】，正发往【上海嘉定转运中心】</view>
+                <view class="date">
+                    <text>08-30</text>
+                    <text class="time">11:31:44</text>
+                </view>
+            </view>
+        </view>
+    </view>
+</view>

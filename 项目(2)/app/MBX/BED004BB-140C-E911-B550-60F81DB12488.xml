@@ -1,0 +1,41 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="BED004BB-140C-E911-B550-60F81DB12488" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="7">
+    <control controlID="B01F63C1-140C-E911-B550-60F81DB12488" controlTypeID="Label" x="29" y="50" w="42" h="20" zOrder="0">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>%E5%A4%B4%E5%83%8F%EF%BC%9A</text>
+      <lineSpacing>0</lineSpacing>
+    </control>
+    <control controlID="7E8E04C5-140C-E911-B550-60F81DB12488" controlTypeID="Image" x="76" y="45" w="129" h="80" zOrder="1"/>
+    <control controlID="36555FC8-140C-E911-B550-60F81DB12488" controlTypeID="Label" x="24" y="167" w="42" h="20" zOrder="2">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>%E7%A7%B0%E5%91%BC%EF%BC%9A</text>
+      <lineSpacing>0</lineSpacing>
+    </control>
+    <control controlID="7E101AD3-140C-E911-B550-60F81DB12488" controlTypeID="Shape" x="66" y="154" w="299" h="44" zOrder="3">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+    </control>
+    <control controlID="34E60CD7-140C-E911-B550-60F81DB12488" controlTypeID="Label" x="29" y="231" w="42" h="20" zOrder="4">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>%E7%AE%80%E4%BB%8B%EF%BC%9A</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="C0E60CD7-140C-E911-B550-60F81DB12488" controlTypeID="Shape" x="71" y="218" w="299" h="87" zOrder="5">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="661F0BE1-140C-E911-B550-60F81DB12488" controlTypeID="Button" x="41" y="334" w="314" h="45" zOrder="6">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>%E7%A1%AE%E5%AE%9A</text>
+      <lineSpacing>0</lineSpacing>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

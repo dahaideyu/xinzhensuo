@@ -1,0 +1,36 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="46F749F9-140C-E911-B550-60F81DB12488" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="9">
+    <control controlID="38F84528-150C-E911-B550-60F81DB12488" controlTypeID="TextArea" x="10" y="20" w="345" h="92" zOrder="0">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Cras+gravida+vel+ex+at+consectetur.+Aliquam+vel+volutpat+ante.+Integer+id+tempor+eros%2C+at+lobortis+augue.+Etiam+ipsum+mi%2C+placerat+eget+urna+at%2C+placerat+sodales+lorem.+Donec+accumsan+tempus+justo+at+hendrerit.+Donec+varius+venenatis+molestie.+Sed+volutpat+nunc+lorem.%0A</text>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="4079473E-150C-E911-B550-60F81DB12488" controlTypeID="Image" x="10" y="116" w="118" h="105" zOrder="1"/>
+    <control controlID="9C49DF42-150C-E911-B550-60F81DB12488" controlTypeID="Image" x="130" y="116" w="118" h="105" zOrder="2"/>
+    <control controlID="C6520445-150C-E911-B550-60F81DB12488" controlTypeID="Image" x="251" y="116" w="118" h="105" zOrder="3"/>
+    <control controlID="20C5D74F-150C-E911-B550-60F81DB12488" controlTypeID="Label" x="14" y="247" w="56" h="20" zOrder="4">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>%E5%8C%BB%E7%94%9F%E7%AE%80%E4%BB%8B</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="B47AE156-150C-E911-B550-60F81DB12488" controlTypeID="Image" x="18" y="283" w="110" h="102" zOrder="5"/>
+    <control controlID="D051A860-150C-E911-B550-60F81DB12488" controlTypeID="TextArea" x="148" y="283" w="207" h="102" zOrder="6">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>%E7%8E%8B%E5%8C%BB%E7%94%9F%0A%E6%93%85%E9%95%BFxxxxxxxxxx%0Axsefasefasefase</text>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="426FF67D-150C-E911-B550-60F81DB12488" controlTypeID="Image" x="18" y="405" w="110" h="102" zOrder="7"/>
+    <control controlID="B06FF67D-150C-E911-B550-60F81DB12488" controlTypeID="TextArea" x="148" y="405" w="207" h="102" zOrder="8">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>%E7%8E%8B%E5%8C%BB%E7%94%9F%0A%E6%93%85%E9%95%BFxxxxxxxxxx%0Axsefasefasefase</text>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

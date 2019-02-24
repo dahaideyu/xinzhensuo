@@ -1,0 +1,100 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="14821EE7-170C-E911-B550-60F81DB12488" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325">
+  <controls controlCount="15">
+    <control controlID="1ECB3A18-180C-E911-B550-60F81DB12488" controlTypeID="Shape" x="10" y="21" w="355" h="113" zOrder="0">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="46F749F9-140C-E911-B550-60F81DB12488" linkType="ltPageLink" isApplyIncludePage="False" title="%E8%AF%8A%E6%89%80%E4%BF%A1%E6%81%AF">
+          <area shape="0" alt="" ID="{44CD3A18-180C-E911-B550-60F81DB12488}" coords="(0,0,355,113)"/>
+        </link>
+      </links>
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="C67D741F-180C-E911-B550-60F81DB12488" controlTypeID="Image" x="24" y="37" w="93" h="78" zOrder="1"/>
+    <control controlID="56550423-180C-E911-B550-60F81DB12488" controlTypeID="Label" x="134" y="41" w="56" h="20" zOrder="2">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>%E8%80%81%E7%8E%8B%E8%AF%8A%E6%89%80</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="CE24352D-180C-E911-B550-60F81DB12488" controlTypeID="TextArea" x="129" y="67" w="236" h="41" zOrder="3">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Vestibulum+sed+lacus+nec+justo+porta+rhoncus+non+quis+dui.+Suspendisse+</text>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="E805FF44-180C-E911-B550-60F81DB12488" controlTypeID="Shape" x="10" y="153" w="355" h="113" zOrder="4">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="46F749F9-140C-E911-B550-60F81DB12488" linkType="ltPageLink" isApplyIncludePage="False" title="%E8%AF%8A%E6%89%80%E4%BF%A1%E6%81%AF">
+          <area shape="0" alt="" ID="{6817FF44-180C-E911-B550-60F81DB12488}" coords="(0,0,355,113)"/>
+        </link>
+      </links>
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="5606FF44-180C-E911-B550-60F81DB12488" controlTypeID="Image" x="24" y="169" w="93" h="78" zOrder="5"/>
+    <control controlID="A606FF44-180C-E911-B550-60F81DB12488" controlTypeID="Label" x="134" y="173" w="56" h="20" zOrder="6">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>%E8%80%81%E7%8E%8B%E8%AF%8A%E6%89%80</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="3207FF44-180C-E911-B550-60F81DB12488" controlTypeID="TextArea" x="129" y="199" w="236" h="41" zOrder="7">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Vestibulum+sed+lacus+nec+justo+porta+rhoncus+non+quis+dui.+Suspendisse+</text>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="2801A446-180C-E911-B550-60F81DB12488" controlTypeID="Shape" x="10" y="282" w="355" h="113" zOrder="8">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="46F749F9-140C-E911-B550-60F81DB12488" linkType="ltPageLink" isApplyIncludePage="False" title="%E8%AF%8A%E6%89%80%E4%BF%A1%E6%81%AF">
+          <area shape="0" alt="" ID="{F015A446-180C-E911-B550-60F81DB12488}" coords="(0,0,355,113)"/>
+        </link>
+      </links>
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="AA01A446-180C-E911-B550-60F81DB12488" controlTypeID="Image" x="24" y="298" w="93" h="78" zOrder="9"/>
+    <control controlID="1802A446-180C-E911-B550-60F81DB12488" controlTypeID="Label" x="134" y="302" w="56" h="20" zOrder="10">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>%E8%80%81%E7%8E%8B%E8%AF%8A%E6%89%80</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="C202A446-180C-E911-B550-60F81DB12488" controlTypeID="TextArea" x="129" y="328" w="236" h="41" zOrder="11">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Vestibulum+sed+lacus+nec+justo+porta+rhoncus+non+quis+dui.+Suspendisse+</text>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="E2E000F0-180C-E911-B550-60F81DB12488" controlTypeID="Icon" x="331" y="33" w="24" h="24" zOrder="12">
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62343</iconCode>
+      </icon>
+      <URL>27BF6DD5D083782A1CB633DA66BC8750.svg</URL>
+    </control>
+    <control controlID="E81582F2-180C-E911-B550-60F81DB12488" controlTypeID="Icon" x="331" y="165" w="24" h="24" zOrder="13">
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62344</iconCode>
+      </icon>
+      <URL>9DA58F6FCBD77A56BA4CDD80AFFCE333.svg</URL>
+    </control>
+    <control controlID="966587F4-180C-E911-B550-60F81DB12488" controlTypeID="Icon" x="331" y="292" w="24" h="24" zOrder="14">
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62344</iconCode>
+      </icon>
+      <URL>9DA58F6FCBD77A56BA4CDD80AFFCE333.svg</URL>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

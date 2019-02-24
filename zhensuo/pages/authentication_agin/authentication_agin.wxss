@@ -1,0 +1,285 @@
+/**index.wxss**/
+page{
+    background: #f4f4f4
+}
+
+/* .authentication_wrap{
+    margin-top: 30rpx;
+} */
+.authentication_list{
+    padding: 0 30rpx;
+    background: #fff;
+    border-top: 1px solid #eee;
+    min-height: 100rpx;
+}
+.left{
+    overflow: hidden;
+    float: left;
+}
+.title_name{
+    font-size:30rpx;
+    color:  #666666;
+    line-height: 100rpx;
+    padding-left: 30rpx;
+    float: left
+}
+.icon{
+    width: 60rpx;
+    height:60rpx;
+    margin-top: 25rpx;
+    float: left;
+}
+.get_value{
+    float: right;
+    text-align: right;
+    line-height: 100rpx;
+    height: 100rpx;
+    font-size: 30rpx;
+    color: #00acc0;
+    margin-left: 70rpx;
+}
+.right{
+    float: right;
+
+}
+.message_click{
+    float: left;
+    line-height: 100rpx;
+    font-size: 30rpx;
+    padding: 0 30rpx;
+    color: #666
+}
+.icon_adress{
+    float: left;
+    width: 25rpx;
+    height: 35rpx;
+    margin-top: 40rpx;
+}
+.authentication_plate{
+    border-top: none;
+    border-bottom: 1px solid #eee;
+}
+.title_plate{
+    margin-left: 60rpx;
+}
+.get_value1{
+    margin-left: 110rpx;
+}
+.authentication_image{
+    border-top: none;
+}
+/* 图片上传 */
+.question-images-area {
+  padding: 40rpx 0;
+}
+
+.question-images-tool {
+  display: flex;
+  align-items: center;
+}
+.question-images-tool>image{
+    width: 100%;
+    height: 100%
+}
+.question-images {
+  display: flex;
+  align-items: center;
+}
+
+.q-image-wrap {
+  margin-right: 10rpx;
+}
+
+.q-image {
+  flex: 1;
+  height: 200rpx;
+  width: 300rpx;
+  margin: 0 30rpx;
+  border: 1px solid #ccc;
+  border-radius: 20rpx;
+
+}
+
+.q-image-remover {
+  text-align: center;
+  font-size: 30rpx;
+  color: #666;
+
+}
+.question_wrap{
+    width: 100%;
+    background: #fff;
+    padding: 0 30prx;
+}
+.addImage{
+    color: #fff;
+    background: #00acc0
+}
+.authentication_introduction{
+    border-top: none;
+}
+.doctor_information{
+    margin: 30rpx 0;
+    border-top: 1px solid #eee;
+    border-bottom: 1px solid #eee;
+}
+
+/**index.wxss**/
+page{
+    background: #f4f4f4
+}
+.wrap{
+    font-size: 20rpx
+}
+.title{
+    width: 100%;
+    background: #00acc0;
+    overflow: hidden;
+    padding-bottom: 30rpx;
+}
+.head_portrait{
+    width: 150rpx;
+    height: 150rpx;
+    float: left;
+    border-radius: 50%;
+    margin-left: 25rpx
+}
+.user_name{
+    float: left;
+    font-size: 35rpx;
+    color: #fff;
+    height: 150rpx;
+    line-height: 150rpx;
+    padding-left: 25rpx;
+}
+.user_wrap{
+    margin-top: 20rpx;
+    overflow: hidden;
+}
+.click{
+    line-height: 100rpx;
+    font-size: 22rpx;
+    background: #fff;
+    color:#00acc0;
+    height: 100rpx;
+    border-top: none;
+    border-bottom: none;
+}
+.button-hover{
+    background: #00acc0;
+    color: #fff;
+}
+
+.clickone{
+    background: #fff;
+    color: #00acc0;
+}
+button{
+    border: none;
+    border-radius: 0
+}
+button::after{
+    border: none;
+}
+.user_list{
+    padding-left: 30rpx;
+    padding-right: 30rpx;
+    background: #fff;
+    display: flex;
+    display: -webkit-flex;
+    justify-content: flex-start;
+    height: 100rpx;
+    line-height: 100rpx;
+    font-size: 30rpx;
+    border-top: 1px solid #eee;
+}
+.user_list>image{
+    width: 70rpx;
+    height: 50rpx;
+    display: block;
+    padding-top: 30rpx;
+}
+.user_list>text{
+    width: 200rpx;
+    color: grey;
+    padding-top: 5rpx;
+    padding-left: 10rpx;
+}
+.user_list>input{
+    height: 100%;
+    width: 90%;
+    text-align: right;
+    padding-left: 10rpx;
+}
+.users_phone{
+    margin-top: 30rpx;
+    border-bottom: 1px solid #eee;
+}
+.users_token{
+    width: 100%;
+    padding: 0 0 0 30rpx;
+    border-top: none;
+}
+.users_token>input{
+    width: 40%;
+    text-align: center;
+}
+.users_token>image{
+    width: 60rpx;
+    height: 50rpx;
+    display: block;
+    padding-top: 30rpx;
+}
+.add{
+    font-size: 25rpx;
+    width: 200rpx;
+    line-height: 100rpx;
+    color: #00acc0;
+    background: #fff;
+    border-left: 1px solid #ccc;
+}
+.add_token{
+    background: #00acc0;
+    color: #fff;
+}
+.users_city{
+    margin-top: 30rpx;
+}
+.city_left>image{
+    width:60rpx;
+    height: 50rpx;
+    display: block;
+    padding-top: 30rpx;
+    float: left
+}
+.city_left>text{
+    width: 200rpx;
+    color: grey;
+    padding-top: 5rpx;
+    padding-left: 10rpx;
+    float: left
+}
+.users_city>view{
+    width: 50%;
+}
+.city>image{
+    width: 20rpx;
+    height: 30rpx;
+    margin-top: 37rpx;
+    margin-left: 30rpx;
+    display: block;
+    float: right;
+}
+.city{
+    text-align: right;
+    color: grey;
+}
+.apply{
+    background: #00acc0;
+    color: #fff;
+    margin-top: 30rpx;
+}
+.clickone{
+    background: #fff;
+    color: #00acc0;
+}

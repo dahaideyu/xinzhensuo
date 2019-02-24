@@ -1,0 +1,24 @@
+page {
+    background: #f4f4f4;
+}
+
+.wrap {
+    overflow: hidden;
+    padding: 0 30rpx;
+    background: #fff;
+}
+
+.list {
+    display: flex;
+    justify-content: space-between;
+    color: #666;
+    line-height: 100rpx;
+    font-size: 30rpx;
+    border-bottom: 1px solid #ccc;
+}
+.right{
+    color: #ff2435
+}
+.active{
+    border-bottom: none
+}

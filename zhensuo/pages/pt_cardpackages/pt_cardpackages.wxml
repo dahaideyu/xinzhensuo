@@ -1,0 +1,22 @@
+<view class='title'>
+    <text>当前积分：5656565</text>
+</view>
+<view class='list'>
+    <view>积分使用详情:</view>
+    <view>
+        <text>购买商品</text>
+        <text>-5000积分</text>
+    </view>
+    <view>
+        <text>购买商品</text>
+        <text>-5000积分</text>
+    </view>
+    <view>
+        <text>购买商品</text>
+        <text>-5000积分</text>
+    </view>
+    <view>
+        <text>购买商品</text>
+        <text>-5000积分</text>
+    </view>
+</view>

@@ -1,0 +1,89 @@
+page{
+    background: #f4f4f4;
+}
+.doctor{
+    overflow: hidden;
+    background: #fff;
+
+}
+.wrap{
+    background: #fff;
+    margin-top: 20rpx;
+}
+.doctor_message{
+    width: 45%;
+    border: 1px solid #eee;
+    text-align: center;
+    border-radius: 10rpx;
+    background: #fff;
+}
+.head>image{
+    width: 100%;
+    height: 276rpx;
+    border-radius: 7rpx;
+}
+.doctor>view{
+    float: left;
+    margin-left: 25rpx;
+}
+.doctor_name{
+    color: #00acc0;
+}
+.docto_text{
+    font-size: 26rpx;
+}
+.doctos_message{
+   line-height: 50rpx;
+   font-size: 27rpx;
+   color: #666;
+}
+.add_clinic{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    border: none;
+    border-radius: 0;
+    outline: none;
+    background: #00acc0;
+    color: #fff;
+}
+.add_class{
+    background: #fff;
+    color: #00acc0;
+}
+.doctor_mss{
+    display: block;
+    padding:0 30rpx;
+    overflow: hidden;
+}
+.doctor_mss>image{
+    width: 60rpx;
+    height: 55rpx;
+    padding-top: 20rpx;
+    float: left;
+}
+.name{
+    float: left;
+    line-height: 100rpx;
+    padding-left: 30rpx;
+    font-size: 30rpx;
+    color: #666;
+}
+.txt{
+    font-size: 28rpx;
+    color: #666;
+}
+.img_wrap{
+   overflow: hidden;
+    width: 100%;
+    margin-top: 10rpx;
+}
+.img_wrap>image{
+    width: 30%;
+    height: 150rpx;
+    margin-left: 15rpx;
+    border-radius: 10rpx;
+}
+.img_wrap>image:first-child{
+    margin-left: 0rpx;
+}

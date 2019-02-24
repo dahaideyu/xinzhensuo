@@ -1,0 +1,31 @@
+page{
+    background: #f4f4f4
+}
+.title{
+    background: #00acc0;
+    text-align: center;
+    font-size: 35rpx;
+    color:#fff;
+    line-height: 100rpx;
+}
+.list>view{
+    border-bottom: 1px solid #eee;
+    background: #fff;
+    font-size: 30rpx;
+    line-height: 100rpx;
+    padding: 0 30rpx;
+    display: flex;
+    justify-content: space-between
+}
+.list>view>text:first-child{
+    color: #666;
+}
+.list>view>text:last-child{
+    color: #ff2435
+}
+.list>view:first-child{
+    background: none;
+    line-height: 70rpx;
+    color: #666;
+    font-size: 30rpx;
+}

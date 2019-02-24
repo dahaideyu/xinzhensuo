@@ -1,0 +1,31 @@
+<!-- 医生头像信息简介 -->
+<view class='wrap'>
+<view></view>
+  <view class='txt'>
+      {{pdetail.introduction}} 
+  </view>
+  <image style="height:150rpx;width:300rpx" wx:for="{{pdetail.images}}" src='{{item}}'></image> 
+</view>
+<button class="default"   
+ style="background-color:#00acc0" 
+bindtap="buyorder" data-pid="{{pdetail.goodsId}}" >
+    购买
+</button>
+<!--
+<view class='wrap'>
+    <view class='doctor_mss'>
+        <image src='../../status/14.jpg'></image>
+        <text class='name'>{{cdetail.clinicName}}</text>
+
+    </view>
+    <view class='doctor'>g
+        <view class='txt'>
+      {{cdetail.introduction}} </view>
+        <view class='img_wrap'>
+            <image wx:for="{{cdetail.clinicImage}}" src='{{item}}'></image> 
+        </view>
+    </view>
+</view>
+-->
+
+

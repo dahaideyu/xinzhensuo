@@ -1,0 +1,63 @@
+<view class='title'>
+    <view class='img'>
+        <image src='../../status/i.png'></image>
+    </view>
+    <text class='title_name'>已完成</text>
+</view>
+
+<view class='content'>
+    <view class='content_title'>
+        <view class='left1'>
+            <image src='http://photo.l99.com/bigger/fe7/1465711030390_ej3r7g.jpg'></image>
+        </view>
+        <view class='right1'>
+            <text>活性炭生物活性齿白凝胶</text>
+            <text>￥1221220.23</text>
+        </view>
+    </view>
+</view>
+<view class='text_add'>
+    <text>已使用产品不支持退货</text>
+    <view class='order_wrap'>
+        <text>类型</text>
+        <!-- 下拉框 -->
+        <view class='right_item'>
+            <view class='select_box'>
+                <view class='select' catchtap='selectTap'>
+                    <text class='select_text'>{{selectData[index]}}</text>
+                    <image class='select_img {{show&&"select_img_rotate"}}' src='../../status/right1.png'></image>
+                </view>
+                <view class='option_box' style='height:{{show?(selectData.length>5?300:selectData.length*60):0}}rpx;'>
+                    <text class='option' style='{{index==selectData.length-1&&"border:0;"}}' wx:for='{{selectData}}' wx:key='this' data-index='{{index}}' catchtap='optionTap'>{{item}}</text>
+                </view>
+            </view>
+        </view>
+        <!-- 下拉框 -->
+    </view>
+</view>
+<view class='item_list'>
+        <view class='question_wrap'>
+        <!-- 图片上传 -->
+    <view class='question_wrap'>
+        <view class="question-images-area">
+            <view class="question-images">
+                <block wx:for="{{images}}" wx:key="*this">
+                    <view class="q-image-wrap">
+                        <image class="q-image" src="{{item}}" data-idx="{{index}}" bindtap="handleImagePreview"></image>
+                        <view class="q-image-remover" data-idx="{{index}}" bindtap="removeImage">删除</view>
+                    </view>
+                </block>
+            </view>
+            <!-- 添加图片按钮  -->
+            <view class="question-images-tool">
+                <button type="default" size="mini" bindtap="chooseImage" wx:if="{{images.length < 2}}" hover-class='addImage'>添加图片</button>
+              
+            </view>
+        </view>
+    </view>
+        <!-- 图片上传 -->
+    </view>
+</view>
+<view class='btn'>
+    <view>提交</view>
+</view>

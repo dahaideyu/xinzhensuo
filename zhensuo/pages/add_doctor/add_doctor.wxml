@@ -1,0 +1,45 @@
+
+<view class='authentication_wrap'>
+
+    <view class='authentication_list authentication_image'>
+        <view class='left'>
+            <image src='../../status/1.jpg' class='icon'></image>
+            <text class='title_name'>头像</text>
+        </view>
+    </view>
+    <view class='question_wrap'>
+        <!-- 图片上传 -->
+        <view class="question-images-area">
+            <view class="question-images">
+                <block wx:for="{{images}}" wx:key="*this">
+                    <view class="q-image-wrap">
+                        <image class="q-image" src="{{item}}" data-idx="{{index}}" bindtap="handleImagePreview"></image>
+                        <view class="q-image-remover" data-idx="{{index}}" bindtap="removeImage">删除</view>
+                    </view>
+                </block>
+            </view>
+            <!-- 添加图片按钮  -->
+            <view class="question-images-tool">
+                <button type="default" size="mini" bindtap="chooseImage" wx:if="{{images.length < 2}}" hover-class='addImage'>添加图片</button>
+              
+            </view>
+        </view>
+        <!-- 图片上传 -->
+    </view>
+
+    <view class='user_list users_name'>
+        <image src='../../status/15.jpg'></image>
+        <text>称呼</text>
+        <input placeholder='请输入'></input>
+    </view>
+
+    <view class='user_list users_idcar'>
+        <image src='../../status/14.jpg'></image>
+        <text>简介</text>
+        <input placeholder='请输入'></input>
+    </view>
+
+
+    
+</view>
+<button class='apply' hover-class='clickone'>确定</button>

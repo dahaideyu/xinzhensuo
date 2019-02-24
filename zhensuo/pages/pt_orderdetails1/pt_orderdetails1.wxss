@@ -1,0 +1,298 @@
+page {
+    background: #f4f4f4;
+}
+
+.title {
+    background: #00acc0;
+    padding: 30rpx;
+    overflow: hidden;
+}
+
+.img {
+    background: #fff;
+    width: 40rpx;
+    height: 40rpx;
+    border-radius: 50%;
+    float: left;
+}
+
+.img>image {
+    width: 100%;
+    height: 100%;
+}
+
+.title_name {
+    float: left;
+    color: #fff;
+    font-size: 30rpx;
+    padding-left: 30rpx;
+}
+
+.left {
+    float: left;
+}
+
+.left>image {
+    width: 30rpx;
+    height: 40rpx;
+    padding-top: 5rpx;
+    float: left;
+}
+
+.right {
+    float: right;
+    margin-top: 50rpx;
+}
+
+.right>image {
+    width: 20rpx;
+    height: 30rpx;
+}
+
+.adress {
+    background: #fff;
+    overflow: hidden;
+    padding: 30rpx;
+    margin-top: -10rpx;
+    border-top-left-radius: 10rpx;
+    border-top-right-radius: 10rpx;
+}
+
+.adress_name {
+    font-size: 30rpx;
+    color: #666;
+    line-height: 50rpx;
+    padding-left: 40rpx;
+}
+
+.adress_user {
+    color: #666;
+    font-size: 30rpx;
+    padding-left: 70rpx;
+    padding-top: 30rpx;
+}
+
+.content {
+    background: #fff;
+    overflow: hidden;
+    padding: 20rpx 30rpx;
+    border-bottom: 1px solid #eee;
+    margin-top: -10rpx;
+    border-top-left-radius: 10rpx;
+    border-top-right-radius: 10rpx;
+}
+
+.left1 {
+    float: left;
+}
+
+.left1>image {
+    width: 230rpx;
+    height: 130rpx;
+    border-radius: 10rpx;
+}
+
+.right1>text:first-child {
+    color: #666;
+    font-size: 30rpx;
+    padding-left: 30rpx;
+}
+
+.right1>text:last-child {
+    font-size: 25rpx;
+    padding-left: 30rpx;
+    color: #ff0651;
+}
+
+.text_add {
+    background: #fff;
+    padding-top: 30rpx;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 20rpx;
+}
+
+.text_add>text {
+    display: block;
+    padding: 10rpx 30rpx;
+    font-size: 30rpx;
+    color: #666;
+}
+
+.item_list {
+    background: #fff;
+}
+
+.list_add {
+    border-bottom: 1px solid #eee;
+    display: flex;
+    justify-content: space-between;
+    line-height: 100rpx;
+    font-size: 30rpx;
+    color: #666;
+}
+
+.list_price {
+    line-height: 80rpx;
+    color: #666;
+    font-size: 30rpx;
+    width: 100%;
+    overflow: hidden;
+}
+
+.list_price>view>text {
+    float: right;
+    display: block;
+}
+
+.list_price>view>text:first-child {
+    font-size: 35rpx;
+    padding-left: 20rpx;
+}
+
+.list_price>view>text:last-child {
+    font-size: 28rpx;
+}
+
+.btn {
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background: #fff;
+    line-height: 100rpx;
+    color: #00acc0;
+}
+
+.btn>view {
+    width: 100%;
+    border: none;
+    border-radius: 0;
+    outline: none;
+    text-align: center;
+}
+
+.btn>view:last-child {
+    background: #00acc0;
+    color: #fff;
+}
+.right_item{
+    margin-left: 10rpx;
+    padding: 0rpx 50rpx;
+    background: #f4f4f4;
+    border-radius: 10rpx;
+}
+.right_item>image{
+    width: 20rpx;
+    height: 30rpx;
+    float: right;
+    margin-top: 18rpx;
+}.select_box{
+  position: relative;
+}
+.select{
+  box-sizing: border-box;
+  width: 100%;
+  height: 70rpx;
+  
+  display: flex;
+  align-items: center;
+}
+.select_text{
+  font-size: 30rpx;
+  flex: 1;
+}
+.select_img{
+  width: 30rpx;
+  height: 30rpx;
+  display: block;
+  transition:transform 0.3s;
+  padding-left: 30rpx;
+}
+.select_img_rotate{
+  transform:rotate(180deg); 
+}
+.option_box{
+  position: absolute;
+  top: 70rpx;
+  width: 100%;
+  border:1px solid #efefef;
+  box-sizing: border-box;
+  height: 0;
+  overflow-y: auto;
+  border-top: 0;
+  background: #fff;
+  transition: height 0.3s;
+}
+.option{
+  display: block;
+  line-height: 40rpx;
+  font-size: 30rpx;
+  border-bottom: 1px solid #efefef;
+  padding: 10rpx;
+}
+.order_wrap{
+    display: flex;
+    justify-content: flex-start;
+    font-size: 30rpx;
+    color: #666;
+    padding: 30rpx;
+}
+.order_wrap>text{
+    line-height: 75rpx;
+}
+/* 图片上传 */
+.question-images-area {
+  padding: 40rpx 0;
+}
+
+.question-images-tool {
+  display: flex;
+  align-items: center;
+}
+.question-images-tool>image{
+    width: 100%;
+    height: 100%
+}
+.question-images {
+  display: flex;
+  align-items: center;
+}
+
+.q-image-wrap {
+  margin-right: 10rpx;
+}
+
+.q-image {
+  flex: 1;
+  height: 200rpx;
+  width: 300rpx;
+  margin: 0 30rpx;
+  border: 1px solid #eee;
+  border-radius: 20rpx;
+
+}
+
+.q-image-remover {
+  text-align: center;
+  font-size: 30rpx;
+  color: #666;
+
+}
+.question_wrap{
+    width: 100%;
+    background: #fff;
+    padding: 0 30prx;
+}
+.addImage{
+    color: #fff;
+    background: #00acc0
+}
+.authentication_introduction{
+    border-top: none;
+}
+.doctor_information{
+    margin: 30rpx 0;
+    border-top: 1px solid #eee;
+    border-bottom: 1px solid #eee;
+}

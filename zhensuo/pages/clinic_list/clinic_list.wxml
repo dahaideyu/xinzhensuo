@@ -1,0 +1,47 @@
+<view class='clinic_wrap'>
+<block wx:for="{{clinics}}">
+    <view class='clinic_item'  >
+        <view class='clinic_title'>
+            <view class='clinic_left'>
+                <text class='clinic_name'>{{item.clinicName}}</text>
+                <text class='clinic_state'>{{item.status}}</text>
+            </view>
+            <view class='clinic_right'>
+                <text class='clinic_time'>{{item.createTime}}</text>
+            </view>
+        </view>
+        <view class='user_status'>
+            <text>{{item.fullName}}</text>
+            <text class='user_phone'>{{item.mobile}}</text>
+        </view>
+        <view class='user_address'>{{item.address}}</view>
+    </view>
+    <view class='user_photo'>
+        <image wx:for="{{item.doctors}}" wx:for-item="itemdoc" src='{{itemdoc.doctorImage}}'></image>
+    </view>
+</block>
+    
+ <!--   <view class='clinic_item'>
+        <view class='clinic_title'>
+            <view class='clinic_left'>
+                <text class='clinic_name'>宝芝堂</text>
+                <text class='clinic_state active'>审核中</text>
+            </view>
+            <view class='clinic_right'>
+                <text class='clinic_time'>2018-10-10</text>
+            </view>
+        </view>
+        <view class='user_status'>
+            <text>马冬梅</text>
+            <text class='user_phone'>123456789810</text>
+        </view>
+        <view class='user_address'>四川省成都市九眼桥110号金色年华一栋</view>
+    </view>
+    <view class='user_photo'>
+        <image src='https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1547104468968&di=5bf16c307d84d6fae0474553bd796ec1&imgtype=0&src=http%3A%2F%2Fpic.baike.soso.com%2Fp%2F20131127%2F20131127131846-1542794597.jpg'></image>
+        <image src='https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1547104468968&di=5bf16c307d84d6fae0474553bd796ec1&imgtype=0&src=http%3A%2F%2Fpic.baike.soso.com%2Fp%2F20131127%2F20131127131846-1542794597.jpg'></image>
+        <image src='https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1547104468968&di=5bf16c307d84d6fae0474553bd796ec1&imgtype=0&src=http%3A%2F%2Fpic.baike.soso.com%2Fp%2F20131127%2F20131127131846-1542794597.jpg'></image>
+    </view>-->
+</view>
+
+<button class='add_clinic' bindtap="Toaddclinic" hover-class='add_clinic1'>添加新诊所</button>

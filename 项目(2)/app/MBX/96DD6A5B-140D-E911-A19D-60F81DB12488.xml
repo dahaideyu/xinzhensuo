@@ -1,0 +1,16 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="96DD6A5B-140D-E911-A19D-60F81DB12488" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="2">
+    <control controlID="086C9166-140D-E911-A19D-60F81DB12488" controlTypeID="QRCode" x="96" y="109" w="167" h="156" zOrder="0"/>
+    <control controlID="3CC1216B-140D-E911-A19D-60F81DB12488" controlTypeID="Label" x="142" y="275" w="84" h="20" zOrder="1">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>%E8%AF%B7%E5%87%BA%E7%A4%BA%E4%BA%8C%E7%BB%B4%E7%A0%81</text>
+      <lineSpacing>0</lineSpacing>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

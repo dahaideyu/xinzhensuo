@@ -1,0 +1,15 @@
+<view class='item' wx:for="{{AddressList}}">
+    <view class='left'>
+        <view class='left_top'> 
+            <text>{{item.receiveName}}</text>
+            <text>{{item.receiveMobile}}</text>
+        </view>
+         <view class='left_botton'> 
+            <text>{{item.receiveAddress}}</text>
+            
+        </view>
+    </view>
+    <image data-addressid="{{item.addressId}}" bindtap="addressdetail" src='../../status/25.jpg' class='right'></image>
+</view>
+
+<button class='last' bindtap="ToaddAddress">新增地址</button>

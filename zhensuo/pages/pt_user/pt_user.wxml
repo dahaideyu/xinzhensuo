@@ -1,0 +1,55 @@
+<view class='title'>
+    <view class='left'>
+        <text>附近诊所</text>
+        <text>|</text>
+        <text>Clinic</text>
+    </view>
+    <view class='right' bindtap="navigateToClinic">
+        <text>查看全部</text>
+        <image src='../../status/6.jpg'></image>
+    </view>
+</view>
+<!-- body -->
+<view class='pt_body'>
+    <view  wx:for="{{clinics}}" bindtap="cdetail" data-clinicId="{{item.clinicId}}">
+        <image src='{{item.image}}'></image>
+        <text>{{item.clinicName}}</text>
+    </view> 
+</view>
+<view class='title title_list'>
+    <view class='left'>
+        <text>热门商品</text>
+        <text>|</text>
+        <text>Product</text>
+    </view>
+    <view class='right' bindtap="navigateToProducts">
+        <text>查看全部</text>
+        <image src='../../status/6.jpg'></image>
+    </view>
+</view>
+<view class='product'>
+    <view class='product_list'  wx:for="{{hots}}">
+        <view class='product_left' bindtap="pdetail" data-pid="{{item.goodsId}}">
+            <image src='{{item.image}}'></image>
+        </view>
+        <view class='product_right' style='width:68%'>
+            <view class='prodcut_title'>{{item.goodsName}}</view>
+            <view class='wrap'>
+                <text class='prodcut_price'>￥{{item.price/100.0}}</text>
+                <text class='prodcut_number'>售出{{item.sellCount}}件</text>
+            </view>
+            <view class='product_last' wx:if='{{item.stockCount<1}}'>库存不足</view>
+        </view>
+    </view>
+
+</view>
+<!--
+<view class='navbar'>
+    <view>首页</view>
+    <view bindtap="UserBaseMessage">我的</view>
+</view>-->
+<view class='navbar'>
+    <view  class="chose" >首页</view>
+    <view  wx:if="{{isCityParter}}"  >合伙人</view>
+    <view bindtap="UserBaseMessage">我的</view>
+</view>

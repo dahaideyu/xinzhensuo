@@ -1,0 +1,217 @@
+﻿<project version="2.9" name="项目" ID="1E79ED53-770B-E911-8963-60F81DB12488">
+  <params>
+    <pageParam version="5.3" minAllowVersion="5.3"/>
+    <projectParam version="2.9" minAllowVersion="2.9" platform="MtMobile" orientation="MoPortrait" mobileScreenScale="1.77777779102325" mobileType="mmtIOS" pageSize="(375,667)" backgroundColor="4294967295" fontSize="0" fontFamily="" projectType="ptPersonalProject" isShowTitleIndex="False"/>
+    <previewParam version="1.0"/>
+    <colorParam version="1.0"/>
+  </params>
+  <pages>
+    <page name="首页" ID="5C7CED53-770B-E911-8963-60F81DB12488" expanded="False" code="uvxtgVrzeS" thumbCode="uvxtgVrzeS" status="psWhite" isfolder="False" isshownode="True">
+      <page name="规约" ID="96AEA897-8E0B-E911-8963-60F81DB12488" expanded="True" code="82pvqPMrXa" thumbCode="nBChdb5Mya" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="2B26C789AF3EFEA925A6893B9D4A201A.svg"/>
+        </images>
+      </page>
+      <page name="系统消息" ID="585587DD-8D0B-E911-8963-60F81DB12488" expanded="True" code="bFDSozx937" thumbCode="P2VVa8SIm4" status="psWhite" isfolder="False" isshownode="True"/>
+    </page>
+    <page name="城市合伙人" ID="28B1AF2A-790B-E911-8963-60F81DB12488" expanded="True" code="WFUFb6L9NC" thumbCode="WFUFb6L9NC" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="B91434690C5B5224D1CC6B1998F1178A.svg"/>
+        <image key="84E43FD667F4EA128EEFBAD7B03B51F5.svg"/>
+      </images>
+      <page name="认证" ID="C606D2A3-850B-E911-8963-60F81DB12488" expanded="True" code="XdmVzFLBwx" thumbCode="XdmVzFLBwx" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="B91434690C5B5224D1CC6B1998F1178A.svg"/>
+          <image key="2B26C789AF3EFEA925A6893B9D4A201A.svg"/>
+        </images>
+      </page>
+      <page name="已认证" ID="F6735821-F30B-E911-8963-60F81DB12488" expanded="True" code="qJsWfAapTd" thumbCode="qJsWfAapTd" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="B91434690C5B5224D1CC6B1998F1178A.svg"/>
+        </images>
+      </page>
+      <page name="诊所列表" ID="D417CC5E-890B-E911-8963-60F81DB12488" expanded="True" code="MeL3omtPVJ" thumbCode="MeL3omtPVJ" status="psWhite" isfolder="False" isshownode="True">
+        <page name="诊所详情" ID="123B80DE-100D-E911-A19D-60F81DB12488" expanded="True" code="3CgPo8eNS2" thumbCode="3CgPo8eNS2" status="psWhite" isfolder="False" isshownode="True"/>
+        <page name="添加诊所" ID="2418F32B-8B0B-E911-8963-60F81DB12488" expanded="True" code="823WCaZZFf" thumbCode="823WCaZZFf" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="D08755C22A9B40B6BF65036DEC8B44B4.svg"/>
+          </images>
+        </page>
+      </page>
+      <page name="收益" ID="30553413-8D0B-E911-8963-60F81DB12488" expanded="True" code="XB4hyv2Vuu" thumbCode="XB4hyv2Vuu" status="psWhite" isfolder="False" isshownode="True"/>
+    </page>
+    <page name="诊所负责人" ID="BA05A0C7-F00B-E911-8963-60F81DB12488" expanded="True" code="EsOCzxEnmd" thumbCode="EsOCzxEnmd" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="B91434690C5B5224D1CC6B1998F1178A.svg"/>
+        <image key="84E43FD667F4EA128EEFBAD7B03B51F5.svg"/>
+      </images>
+      <page name="认证" ID="7E64A0C7-F00B-E911-8963-60F81DB12488" expanded="True" code="SzVba5WsLw" thumbCode="SzVba5WsLw" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="B91434690C5B5224D1CC6B1998F1178A.svg"/>
+          <image key="D08755C22A9B40B6BF65036DEC8B44B4.svg"/>
+        </images>
+        <page name="医生信息" ID="7858DF8A-140C-E911-B550-60F81DB12488" expanded="True" code="RER9uwzfW7" thumbCode="RER9uwzfW7" status="psWhite" isfolder="False" isshownode="True"/>
+        <page name="添加医生" ID="BED004BB-140C-E911-B550-60F81DB12488" expanded="False" code="BDZpBDzNnw" thumbCode="BDZpBDzNnw" status="psWhite" isfolder="False" isshownode="True"/>
+      </page>
+      <page name="已认证" ID="B468CD8A-F30B-E911-8963-60F81DB12488" expanded="True" code="iY9qtK2Z1S" thumbCode="iY9qtK2Z1S" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="B91434690C5B5224D1CC6B1998F1178A.svg"/>
+          <image key="D08755C22A9B40B6BF65036DEC8B44B4.svg"/>
+        </images>
+      </page>
+      <page name="信差列表" ID="4E52A1C7-F00B-E911-8963-60F81DB12488" expanded="True" code="R7Zy88526Y" thumbCode="R7Zy88526Y" status="psWhite" isfolder="False" isshownode="True">
+        <page name="添加信差" ID="488AA1C7-F00B-E911-8963-60F81DB12488" expanded="True" code="LEgaOddN16" thumbCode="LEgaOddN16" status="psWhite" isfolder="False" isshownode="True"/>
+        <page name="手动添加信差" ID="920ECD05-120D-E911-A19D-60F81DB12488" expanded="True" code="P9w2nPprsP" thumbCode="P9w2nPprsP" status="psWhite" isfolder="False" isshownode="True"/>
+      </page>
+      <page name="收益" ID="DC4EA3C7-F00B-E911-8963-60F81DB12488" expanded="True" code="uoMxnkvx66" thumbCode="uoMxnkvx66" status="psWhite" isfolder="False" isshownode="True"/>
+    </page>
+    <page name="信差" ID="B20C3C5A-F50B-E911-8963-60F81DB12488" expanded="True" code="WTrUfNBd3m" thumbCode="WTrUfNBd3m" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="B91434690C5B5224D1CC6B1998F1178A.svg"/>
+        <image key="84E43FD667F4EA128EEFBAD7B03B51F5.svg"/>
+      </images>
+      <page name="文章模板点击" ID="6275BB6E-F80B-E911-8963-60F81DB12488" expanded="True" code="n33KlWJTkH" thumbCode="n33KlWJTkH" status="psWhite" isfolder="False" isshownode="True">
+        <page name="预览" ID="F095F077-F70B-E911-8963-60F81DB12488" expanded="True" code="hiuL6IkwoC" thumbCode="hiuL6IkwoC" status="psWhite" isfolder="False" isshownode="True"/>
+      </page>
+      <page name="基本资料" ID="DA7F3C5A-F50B-E911-8963-60F81DB12488" expanded="True" code="NekZVXmbfn" thumbCode="NekZVXmbfn" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="B91434690C5B5224D1CC6B1998F1178A.svg"/>
+        </images>
+      </page>
+      <page name="我的发布" ID="686C80ED-F80B-E911-8963-60F81DB12488" expanded="True" code="AJP7bj9Eka" thumbCode="AJP7bj9Eka" status="psWhite" isfolder="False" isshownode="True">
+        <page name="模板列表" ID="E0C01DBC-FC0B-E911-B550-60F81DB12488" expanded="True" code="zVYAQM7ccc" thumbCode="zVYAQM7ccc" status="psWhite" isfolder="False" isshownode="True"/>
+        <page name="新增模板" ID="36F65E40-FC0B-E911-B550-60F81DB12488" expanded="True" code="gbPWoGRPPD" thumbCode="gbPWoGRPPD" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A74ACDBBC3EE487C9CDF84F8F9700C7C.svg"/>
+          </images>
+        </page>
+      </page>
+      <page name="我的订单" ID="3E40405A-F50B-E911-8963-60F81DB12488" expanded="True" code="I1SfJM3t6w" thumbCode="I1SfJM3t6w" status="psWhite" isfolder="False" isshownode="True"/>
+      <page name="卡包核销" ID="162AD4C0-140D-E911-A19D-60F81DB12488" expanded="True" code="lYnGChvZih" thumbCode="lYnGChvZih" status="psWhite" isfolder="False" isshownode="True"/>
+    </page>
+    <page name="普通用户" ID="9CD3659F-FD0B-E911-B550-60F81DB12488" expanded="True" code="1h5oShh714" thumbCode="1h5oShh714" status="psWhite" isfolder="False" isshownode="True">
+      <page name="购买商品" ID="AACB9111-FF0B-E911-B550-60F81DB12488" expanded="True" code="iXrgmf346e" thumbCode="iXrgmf346e" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="2B26C789AF3EFEA925A6893B9D4A201A.svg"/>
+        </images>
+        <page name="支付" ID="967105EF-020C-E911-B550-60F81DB12488" expanded="True" code="JPQvKkPjAs" thumbCode="JPQvKkPjAs" status="psWhite" isfolder="False" isshownode="True"/>
+      </page>
+      <page name="我的" ID="0CA1B36B-0F0C-E911-B550-60F81DB12488" expanded="True" code="5Np6miTTfI" thumbCode="5Np6miTTfI" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="B91434690C5B5224D1CC6B1998F1178A.svg"/>
+          <image key="84E43FD667F4EA128EEFBAD7B03B51F5.svg"/>
+        </images>
+        <page name="个人资料" ID="CE1F384D-FF0B-E911-B550-60F81DB12488" expanded="True" code="t2YEmdtiMP" thumbCode="t2YEmdtiMP" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="B91434690C5B5224D1CC6B1998F1178A.svg"/>
+          </images>
+        </page>
+        <page name="地址管理" ID="FC0228C3-0F0C-E911-B550-60F81DB12488" expanded="True" code="eHEeTqdxUN" thumbCode="Xyb6MOlrl5" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="2B26C789AF3EFEA925A6893B9D4A201A.svg"/>
+          </images>
+          <page name="新增地址" ID="76703BE6-0F0C-E911-B550-60F81DB12488" expanded="True" code="RrNQ1ZXsNY" thumbCode="RrNQ1ZXsNY" status="psWhite" isfolder="False" isshownode="True"/>
+        </page>
+        <page name="订单列表" ID="4E6C4C0A-110C-E911-B550-60F81DB12488" expanded="False" code="HJ6kXJXmaV" thumbCode="HJ6kXJXmaV" status="psWhite" isfolder="False" isshownode="True">
+          <page name="订单详情" ID="484DC9A7-110C-E911-B550-60F81DB12488" expanded="True" code="tADgaxhI7m" thumbCode="tADgaxhI7m" status="psWhite" isfolder="False" isshownode="True">
+            <images>
+              <image key="2B26C789AF3EFEA925A6893B9D4A201A.svg"/>
+            </images>
+          </page>
+        </page>
+        <page name="查询物流" ID="DEDA83D7-120C-E911-B550-60F81DB12488" expanded="True" code="VhWAEKNrUf" thumbCode="VhWAEKNrUf" status="psWhite" isfolder="False" isshownode="True"/>
+        <page name="奖励列表" ID="4CA59950-190C-E911-B550-60F81DB12488" expanded="True" code="wYLAmelfLM" thumbCode="TWeJLkSzba" status="psWhite" isfolder="False" isshownode="True"/>
+        <page name="卡包列表" ID="B6A7D1BF-130D-E911-A19D-60F81DB12488" expanded="True" code="JmRIq8BbzS" thumbCode="JmRIq8BbzS" status="psWhite" isfolder="False" isshownode="True"/>
+        <page name="卡包详情" ID="309F9719-140D-E911-A19D-60F81DB12488" expanded="True" code="HHQYWcCDNv" thumbCode="EmMAhJAolc" status="psWhite" isfolder="False" isshownode="True">
+          <page name="使用卡包" ID="96DD6A5B-140D-E911-A19D-60F81DB12488" expanded="True" code="J6LMXgB6XJ" thumbCode="J6LMXgB6XJ" status="psWhite" isfolder="False" isshownode="True"/>
+        </page>
+        <page name="我的积分" ID="AEA79A8B-4E0E-E911-A575-720001731E60" expanded="True" code="h4GA8y1lLd" thumbCode="h4GA8y1lLd" status="psWhite" isfolder="False" isshownode="True"/>
+      </page>
+      <page name="商品列表" ID="EC2F61E4-150C-E911-B550-60F81DB12488" expanded="True" code="R57EfjDYsb" thumbCode="R57EfjDYsb" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="27BF6DD5D083782A1CB633DA66BC8750.svg"/>
+          <image key="9DA58F6FCBD77A56BA4CDD80AFFCE333.svg"/>
+        </images>
+        <page name="商品详情" ID="7C7FEB15-160C-E911-B550-60F81DB12488" expanded="True" code="MXZYCAiaxU" thumbCode="MXZYCAiaxU" status="psWhite" isfolder="False" isshownode="True"/>
+      </page>
+      <page name="商品列表-卡包" ID="EECCABC0-120D-E911-A19D-60F81DB12488" expanded="True" code="8ac3kyPOiF" thumbCode="8ac3kyPOiF" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="27BF6DD5D083782A1CB633DA66BC8750.svg"/>
+          <image key="9DA58F6FCBD77A56BA4CDD80AFFCE333.svg"/>
+        </images>
+        <page name="卡包购买" ID="3C993864-130D-E911-A19D-60F81DB12488" expanded="False" code="v9hZmbN6W6" thumbCode="v9hZmbN6W6" status="psWhite" isfolder="False" isshownode="True"/>
+        <page name="卡包详情" ID="122BACC0-120D-E911-A19D-60F81DB12488" expanded="False" code="tBQoMR9Nvd" thumbCode="tBQoMR9Nvd" status="psWhite" isfolder="False" isshownode="True"/>
+      </page>
+      <page name="诊所列表" ID="14821EE7-170C-E911-B550-60F81DB12488" expanded="True" code="n4UBUUVCFF" thumbCode="n4UBUUVCFF" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="27BF6DD5D083782A1CB633DA66BC8750.svg"/>
+          <image key="9DA58F6FCBD77A56BA4CDD80AFFCE333.svg"/>
+        </images>
+        <page name="诊所信息" ID="46F749F9-140C-E911-B550-60F81DB12488" expanded="True" code="CCq57d4gWH" thumbCode="CCq57d4gWH" status="psWhite" isfolder="False" isshownode="True"/>
+      </page>
+    </page>
+  </pages>
+  <trash>
+    <page name="城市合伙人首页" ID="CA1B4E34-790B-E911-8963-60F81DB12488" expanded="False" code="W98yfKpBIZ" thumbCode="9D4Xxiq3I3" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="诊所负责人" ID="CEA736B4-8F0B-E911-8963-60F81DB12488" expanded="True" code="zIEHnqo4dg" thumbCode="HoUVKBM9GF" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="已认证" ID="5A953D5A-F50B-E911-8963-60F81DB12488" expanded="False" code="lvPwPcoEJt" thumbCode="" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="B91434690C5B5224D1CC6B1998F1178A.svg"/>
+      </images>
+    </page>
+    <page name="生成专属文章" ID="92BDBB6E-F80B-E911-8963-60F81DB12488" expanded="False" code="13U1MMgOSR" thumbCode="" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="文章模板点击" ID="AAA780ED-F80B-E911-8963-60F81DB12488" expanded="False" code="pWBhoOg6GY" thumbCode="bOSeoom2b8" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="预览" ID="B8E980ED-F80B-E911-8963-60F81DB12488" expanded="False" code="cv4h7ZLUrG" thumbCode="" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="文章模板" ID="AA396D1B-F70B-E911-8963-60F81DB12488" expanded="False" code="czxmKKJoFn" thumbCode="eoZoJki468" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="诊所列表" ID="0A4E3E5A-F50B-E911-8963-60F81DB12488" expanded="True" code="gXDOq74Stl" thumbCode="NEl35YdnRm" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="添加诊所" ID="60843E5A-F50B-E911-8963-60F81DB12488" expanded="False" code="ETbkgLWk1C" thumbCode="" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="A74ACDBBC3EE487C9CDF84F8F9700C7C.svg"/>
+      </images>
+    </page>
+    <page name="预览" ID="40FC1DBC-FC0B-E911-B550-60F81DB12488" expanded="False" code="Ddi5KHcbzU" thumbCode="" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="页面" ID="A6D44160-0F0C-E911-B550-60F81DB12488" expanded="False" code="ReDTud3boe" thumbCode="1NyLjUFUD8" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="购买商品" ID="DC9E61E4-150C-E911-B550-60F81DB12488" expanded="True" code="vbPBB9wvK7" thumbCode="" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="2B26C789AF3EFEA925A6893B9D4A201A.svg"/>
+      </images>
+    </page>
+    <page name="支付" ID="D0CD61E4-150C-E911-B550-60F81DB12488" expanded="False" code="GSFS44SS36" thumbCode="" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="我的" ID="AAE961E4-150C-E911-B550-60F81DB12488" expanded="True" code="sIOg6tluo8" thumbCode="" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="B91434690C5B5224D1CC6B1998F1178A.svg"/>
+        <image key="84E43FD667F4EA128EEFBAD7B03B51F5.svg"/>
+      </images>
+    </page>
+    <page name="个人资料" ID="A42B62E4-150C-E911-B550-60F81DB12488" expanded="False" code="OQqsRQLm3Z" thumbCode="" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="B91434690C5B5224D1CC6B1998F1178A.svg"/>
+      </images>
+    </page>
+    <page name="地址管理" ID="CA6462E4-150C-E911-B550-60F81DB12488" expanded="True" code="4gqkrt8ldw" thumbCode="" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="2B26C789AF3EFEA925A6893B9D4A201A.svg"/>
+      </images>
+    </page>
+    <page name="新增地址" ID="0A9D62E4-150C-E911-B550-60F81DB12488" expanded="False" code="e9vXC8LB25" thumbCode="" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="订单列表" ID="2AD762E4-150C-E911-B550-60F81DB12488" expanded="True" code="3vql2mXH9X" thumbCode="" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="订单详情" ID="5A4763E4-150C-E911-B550-60F81DB12488" expanded="False" code="RpdVNphpfz" thumbCode="" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="2B26C789AF3EFEA925A6893B9D4A201A.svg"/>
+      </images>
+    </page>
+    <page name="查询物流" ID="828D63E4-150C-E911-B550-60F81DB12488" expanded="False" code="nMJbTp3NMB" thumbCode="" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="诊所信息" ID="20B363E4-150C-E911-B550-60F81DB12488" expanded="False" code="mzwHrYRP4m" thumbCode="" status="psWhite" isfolder="False" isshownode="True"/>
+  </trash>
+  <deletes/>
+  <masters/>
+  <images>
+    <image key="B91434690C5B5224D1CC6B1998F1178A.svg"/>
+    <image key="2B26C789AF3EFEA925A6893B9D4A201A.svg"/>
+    <image key="27BF6DD5D083782A1CB633DA66BC8750.svg"/>
+    <image key="9DA58F6FCBD77A56BA4CDD80AFFCE333.svg"/>
+    <image key="84E43FD667F4EA128EEFBAD7B03B51F5.svg"/>
+    <image key="D08755C22A9B40B6BF65036DEC8B44B4.svg"/>
+    <image key="A74ACDBBC3EE487C9CDF84F8F9700C7C.svg"/>
+  </images>
+</project>

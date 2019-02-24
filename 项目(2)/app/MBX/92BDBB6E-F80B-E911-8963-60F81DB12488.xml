@@ -1,0 +1,28 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="F095F077-F70B-E911-8963-60F81DB12488" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325">
+  <controls controlCount="5">
+    <control controlID="C85769B5-F70B-E911-8963-60F81DB12488" controlTypeID="TextArea" x="20" y="49" w="335" h="181" zOrder="0">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Duis+eget+sagittis+nunc.+Aenean+quis+aliquet+nisi%2C+in+porttitor+lectus.+Praesent+ac+placerat+lectus%2C+finibus+condimentum+tortor.+Integer+posuere+at+neque+a+ornare.+Duis+sapien+eros%2C+euismod+quis+ligula+in%2C+semper+ultricies+velit.+Nunc+lorem+elit%2C+varius+nec+metus+vel%2C+commodo+euismod+nunc.+Fusce+nec+arcu+imperdiet%2C+porta+lacus+a%2C+feugiat+elit.+Mauris+fringilla+ante+sit+amet+arcu+vestibulum%2C+eu+maximus+dolor+varius.+Aliquam+arcu+augue%2C+elementum+et+est+et%2C+convallis+sodales+neque.%0D%0A</text>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="D0ACDCBC-F70B-E911-8963-60F81DB12488" controlTypeID="Image" x="24" y="240" w="316" h="63" zOrder="1"/>
+    <control controlID="FAF9B6C0-F70B-E911-8963-60F81DB12488" controlTypeID="TextArea" x="24" y="313" w="335" h="181" zOrder="2">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Duis+eget+sagittis+nunc.+Aenean+quis+aliquet+nisi%2C+in+porttitor+lectus.+Praesent+ac+placerat+lectus%2C+finibus+condimentum+tortor.+Integer+posuere+at+neque+a+ornare.+Duis+sapien+eros%2C+euismod+quis+ligula+in%2C+semper+ultricies+velit.+Nunc+lorem+elit%2C+varius+nec+metus+vel%2C+commodo+euismod+nunc.+Fusce+nec+arcu+imperdiet%2C+porta+lacus+a%2C+feugiat+elit.+Mauris+fringilla+ante+sit+amet+arcu+vestibulum%2C+eu+maximus+dolor+varius.+Aliquam+arcu+augue%2C+elementum+et+est+et%2C+convallis+sodales+neque.%0D%0A</text>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="50B4043F-F80B-E911-8963-60F81DB12488" controlTypeID="QRCode" x="128" y="499" w="120" h="120" zOrder="3"/>
+    <control controlID="526C3243-F80B-E911-8963-60F81DB12488" controlTypeID="Label" x="121" y="629" w="140" h="20" zOrder="4">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>%E9%95%BF%E6%8C%89%E8%AF%86%E5%88%AB%E4%BA%8C%E7%BB%B4%E7%A0%81%E8%81%94%E7%B3%BB%E6%88%91</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

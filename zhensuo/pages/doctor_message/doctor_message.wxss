@@ -1,0 +1,45 @@
+page{
+    background: #f4f4f4;
+}
+.doctor{
+    margin-top: 30rpx;
+    overflow: hidden
+}
+.doctor_message{
+    width: 45%;
+    border: 1px solid #eee;
+    text-align: center;
+    border-radius: 10rpx;
+    background: #fff;
+}
+.head>image{
+    width: 100%;
+    height: 276rpx;
+}
+.doctor>view{
+    float: left;
+    margin-left: 25rpx;
+}
+.doctor_name{
+    color: #00acc0;
+}
+.docto_text{
+    font-size: 26rpx;
+}
+.doctos_message{
+   line-height: 50rpx;
+}
+.add_clinic{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    border: none;
+    border-radius: 0;
+    outline: none;
+    background: #00acc0;
+    color: #fff;
+}
+.add_class{
+    background: #fff;
+    color: #00acc0;
+}

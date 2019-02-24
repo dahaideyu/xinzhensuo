@@ -1,0 +1,93 @@
+<view class='wrap'>
+  <button wx:if="{{!hasUserInfo && canIUse}}" open-type="getUserInfo" bindgetuserinfo="getUserInfo"> 获取头像昵称 </button>
+    <block wx:else>
+    <view class='title'  bindtap="showDialogBtn">
+        <image class='head_portrait' 
+        src="{{userInfo.avatarUrl}}" ></image>
+        <view class='user_name'>
+            <text>{{userInfo.nickName}}，欢迎您</text>
+            <text>积分：{{myPoints}}</text>
+        </view>
+        <view class='right_1'>
+            <image src='../../status/right.png'></image>
+        </view>
+    </view>
+   </block>
+</view>
+<view class='charge_wrap'>
+    <view class='charge_list'>
+        <view class='left'>
+            <image src='../../status/23.jpg'></image>
+            <text>我的收藏</text>
+        </view>
+        <view class='right'>
+            <image src='../../status/6.jpg'></image>
+        </view>
+    </view>
+    <view class='charge_list'>
+        <view class='left'>
+            <image src='../../status/24.jpg'></image>
+            <text>我的积分</text>
+        </view>
+        <view class='right'>
+        <text>{{myPoints}}</text>
+            <image src='../../status/6.jpg'></image>
+        </view>
+    </view>
+    <view class='charge_list' style='margin-top:30rpx;' bindtap="navaddressManage">
+        <view class='left'>
+            <image src='../../status/12.jpg'></image>
+            <text>地址管理</text>
+        </view>
+        <view class='right'>
+            <image src='../../status/6.jpg'></image>
+        </view>
+    </view>
+    <view class='charge_list'>
+        <view class='left'>
+            <image src='../../status/22.jpg'></image>
+            <text>我的订单</text>
+        </view>
+        <view class='right'>
+            <image src='../../status/6.jpg'></image>
+        </view>
+    </view>
+    <view class='charge_list'>
+        <view class='left'>
+            <image src='../../status/9.jpg'></image>
+            <text>系统消息</text>
+        </view>
+        <view class='right message_number'>
+            <text>{{MessagesCount}}</text>
+            <image src='../../status/6.jpg'></image>
+        </view>
+    </view>
+</view>
+<!-- 底部导航 -->
+<!--<view class='nav_button'>
+    <navigator url='../index/index' hover-class='none' class='page_index'>首页</navigator>
+    <view  hover-class='none' class='mine'>我的</view>
+</view> -->
+<view class='navbar'>
+    <view bindtap="ToIndex">首页</view>
+    <view wx:if="{{isCityParter}}" bindtap="ToCityParter">合伙人</view>
+    <view class="chose">我的</view>
+</view>
+ <!--弹窗-->
+  <view class="modal-mask" bindtap="hideModal" catchtouchmove="preventTouchMove" wx:if="{{showModal}}"></view>
+  <view class="modal-dialog" wx:if="{{showModal}}">
+    <view class="modal-title">预约信息</view>
+    <view class="modal-content">
+      <view class="modal-input">
+        <input placeholder-class="input-holder" type="number" maxlength="11" bindinput="moblieInput" class="input" placeholder="电话"></input>
+      </view>
+      <view class="modal-input">
+        <input placeholder-class="input-holder" type="number" maxlength="10" bindinput="codeInput" class="input input-code" placeholder="验证码"></input>
+     <button class="btn-Code" bindtap="onCode" data-status="confirm">获取验证码</button>
+      </view>
+    </view>
+    <view class="modal-footer">
+      <view class="btn-cancel" bindtap="onCancel" data-status="cancel">取消</view>
+      <view class="btn-confirm" bindtap="onConfirm" data-status="confirm">确定</view>
+    </view>
+  </view>

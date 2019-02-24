@@ -1,0 +1,66 @@
+<view class='wrap'>
+    <view class='title'>
+        <image class='head_portrait' src='http://img0.imgtn.bdimg.com/it/u=2369759387,2979550271&fm=26&gp=0.jpg'></image>
+        <view class='user_name'>
+            <text>马冬梅，欢迎您</text>
+            <text>积分：1000000</text>
+        </view>
+        <view class='right_1'>
+            <image src='../../status/right.png'></image>
+        </view>
+    </view>
+   
+</view>
+<view class='charge_wrap'>
+    <view class='charge_list'>
+        <view class='left'>
+            <image src='../../status/23.jpg'></image>
+            <text>我的收藏</text>
+        </view>
+        <view class='right'>
+            <image src='../../status/6.jpg'></image>
+        </view>
+    </view>
+    <view class='charge_list'>
+        <view class='left'>
+            <image src='../../status/24.jpg'></image>
+            <text>我的积分</text>
+        </view>
+        <view class='right'>
+            <image src='../../status/6.jpg'></image>
+        </view>
+    </view>
+    <view class='charge_list' style='margin-top:30rpx;'>
+        <view class='left'>
+            <image src='../../status/12.jpg'></image>
+            <text>地址管理</text>
+        </view>
+        <view class='right'>
+            <image src='../../status/6.jpg'></image>
+        </view>
+    </view>
+    <view class='charge_list'>
+        <view class='left'>
+            <image src='../../status/22.jpg'></image>
+            <text>我的订单</text>
+        </view>
+        <view class='right'>
+            <image src='../../status/6.jpg'></image>
+        </view>
+    </view>
+    <view class='charge_list'>
+        <view class='left'>
+            <image src='../../status/9.jpg'></image>
+            <text>系统消息</text>
+        </view>
+        <view class='right message_number'>
+            <text>50</text>
+            <image src='../../status/6.jpg'></image>
+        </view>
+    </view>
+</view>
+<!-- 底部导航 -->
+<view class='nav_button'>
+    <navigator url='../index/index' hover-class='none' class='page_index'>首页</navigator>
+    <navigator url='../index/index' hover-class='none' class='mine'>我的</navigator>
+</view>

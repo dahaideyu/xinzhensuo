@@ -1,0 +1,60 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="5C7CED53-770B-E911-8963-60F81DB12488" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="5">
+    <control controlID="32C523A8-780B-E911-8963-60F81DB12488" controlTypeID="Shape" x="60" y="86" w="268" h="45" zOrder="0">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="28B1AF2A-790B-E911-8963-60F81DB12488" linkType="ltPageLink" isApplyIncludePage="False" title="%E5%9F%8E%E5%B8%82%E5%90%88%E4%BC%99%E4%BA%BA">
+          <area shape="0" alt="" ID="{8C45FBC3-7D0B-E911-8963-60F81DB12488}" coords="(0,0,268,45)"/>
+        </link>
+      </links>
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>%E5%9F%8E%E5%B8%82%E5%90%88%E4%BC%99%E4%BA%BA</text>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="C6FDF8BA-780B-E911-8963-60F81DB12488" controlTypeID="Shape" x="62" y="163" w="265" h="47" zOrder="1">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="BA05A0C7-F00B-E911-8963-60F81DB12488" linkType="ltPageLink" isApplyIncludePage="False" title="%E8%AF%8A%E6%89%80%E8%B4%9F%E8%B4%A3%E4%BA%BA">
+          <area shape="0" alt="" ID="{724AC163-F50B-E911-8963-60F81DB12488}" coords="(0,0,265,47)"/>
+        </link>
+      </links>
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>%E8%AF%8A%E6%89%80%E8%B4%9F%E8%B4%A3%E4%BA%BA</text>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="8C5846C5-780B-E911-8963-60F81DB12488" controlTypeID="Shape" x="62" y="239" w="265" h="50" zOrder="2">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="B20C3C5A-F50B-E911-8963-60F81DB12488" linkType="ltPageLink" isApplyIncludePage="False" title="%E4%BF%A1%E5%B7%AE">
+          <area shape="0" alt="" ID="{0CE4B749-260C-E911-BF6E-60F81DB12488}" coords="(0,0,265,50)"/>
+        </link>
+      </links>
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>%E4%BF%A1%E5%B7%AE</text>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="7213DCD4-780B-E911-8963-60F81DB12488" controlTypeID="StickyNote" x="35" y="478" w="204" h="149" zOrder="3">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>%E6%9C%AC%E7%95%8C%E9%9D%A2%E9%9D%9E%E7%9C%9F%E5%AE%9E%E5%B1%95%E7%A4%BA%E5%9B%BE%EF%BC%8C%E8%80%8C%E6%98%AF%E4%B8%80%E4%B8%AA%E5%8A%A0%E8%BD%BD%E9%A1%B5%EF%BC%8C%E9%80%9A%E8%BF%87%E8%B0%83%E7%94%A8%E6%8E%A5%E5%8F%A3%E5%88%A4%E6%96%AD%E6%98%AF%E4%BD%95%E7%A7%8D%E8%A7%92%E8%89%B2%EF%BC%8C%E8%BF%9B%E5%85%A5%E4%B8%8D%E5%90%8C%E7%9A%84%E5%B1%95%E7%A4%BA%E7%95%8C%E9%9D%A2</text>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="F85B65FA-780B-E911-8963-60F81DB12488" controlTypeID="Shape" x="62" y="322" w="265" h="52" zOrder="4">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="9CD3659F-FD0B-E911-B550-60F81DB12488" linkType="ltPageLink" isApplyIncludePage="False" title="%E6%99%AE%E9%80%9A%E7%94%A8%E6%88%B7">
+          <area shape="0" alt="" ID="{3E57B849-260C-E911-BF6E-60F81DB12488}" coords="(0,0,265,52)"/>
+        </link>
+      </links>
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>%E6%99%AE%E9%80%9A%E7%94%A8%E6%88%B7</text>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

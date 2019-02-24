@@ -1,0 +1,28 @@
+.list_wrap{
+    display: flex;
+    justify-content: space-between;
+    padding: 30rpx;
+    border-bottom: 1px solid #eee;
+}
+.left>image{
+    width: 300rpx;
+    height: 150rpx;
+    border-radius: 7rpx;
+}
+.right{
+    padding-left: 30rpx;
+}
+.title{
+    color: #00acc0;
+    font-size: 35rpx;
+}
+.jianj{
+    font-size: 30rpx;
+    color: #666;
+    padding-top: 10rpx;
+}
+.red{
+    width: 30rpx;
+    height: 30rpx;
+    padding-left: 30rpx;
+}

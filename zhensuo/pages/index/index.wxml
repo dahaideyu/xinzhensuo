@@ -1,0 +1,12 @@
+<view class='wrap'>
+    <view class='title'>
+        <!-- <image class='head_portrait' src='http://img0.imgtn.bdimg.com/it/u=2369759387,2979550271&fm=26&gp=0.jpg'></image>
+        <view class='user_name'>马冬梅</view> -->
+    </view>
+</view>
+<view class='user_wrap'>
+  <button class='btn' hover-class='clickone' bindtap="CityPartner">城市合伙人</button>
+  <button class='btn' hover-class='clickone' bindtap="HeadOfClinic">诊所负责人</button>
+  <button class='btn' hover-class='clickone' bindtap="Messenger">信差</button>
+  <button class='btn' hover-class='clickone' bindtap="NormalUser">普通用户</button>
+</view>

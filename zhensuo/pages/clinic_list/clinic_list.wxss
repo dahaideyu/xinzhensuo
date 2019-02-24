@@ -1,0 +1,100 @@
+page{
+    background: #f4f4f4
+}
+button{
+    border: none;
+    border-radius: 0
+}
+button::after{
+    border: none;
+}
+.clinic_wrap{
+    margin-top: 30rpx;
+    border-top: 1px solid #eee;
+}
+.clinic_item{
+    background: #fff;
+}
+.clinic_title{
+    display: flex;
+    display: -webkit-flex;
+    justify-content: space-between;
+    padding-top: 20rpx;
+    padding-left: 20rpx;
+    padding-right: 20rpx;
+    color: #00acc0;
+    min-height: 80rpx;
+    line-height: 80rpx;
+}
+.clinic_name{
+    font-size: 40rpx;
+    font-weight: bold;
+}
+.clinic_state{
+    font-size: 25rpx;
+    margin-left: 20rpx;
+    border:1px solid #00acc0;
+    border-radius:20px;
+    height: 40rpx;
+    line-height: 40rpx;
+    padding: 5rpx 20rpx;
+
+}
+.clinic_left{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.clinic_time{
+    font-size:30rpx;
+    color: #000;
+}
+.user_status{
+    font-size: 30rpx;
+    padding-left: 20rpx;
+    margin-top: 40rpx;
+    display: flex;
+    display: -webkit-flex;
+    justify-content: flex-start
+}
+.user_phone{
+    margin-left: 40rpx;
+}
+.user_address{
+    padding-left: 20rpx;
+    font-size: 30rpx;
+    line-height: 90rpx;
+}
+.user_photo{
+    display: flex;
+    display: -webkit-flex;
+    justify-content: space-around;
+}
+.user_photo>image{
+    width: 30%;
+    height: 200rpx;
+    display: flex;
+}
+.add_clinic{
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #00acc0;
+    color: #fff;
+    height: 100rpx;
+    line-height: 100rpx;
+}
+button::after{
+    border: node
+}
+.add_clinic1{
+    background: #fff;
+    color:#00acc0
+}
+.active{
+    background: #00acc0;
+    color: #fff;
+}

@@ -1,0 +1,38 @@
+<view class='wrap'>
+    <view class='title'>
+        <image class='head_portrait' src='http://img0.imgtn.bdimg.com/it/u=2369759387,2979550271&fm=26&gp=0.jpg'></image>
+        <view class='user_name'>马冬梅</view>
+    </view>
+</view>
+<view class='user_wrap'>
+    <view class='user_list users_city'>
+        <view class='city_left'>
+            <image src='../../status/1.jpg'></image>
+            <text>姓名</text>
+        </view>
+        <view class='city'>
+            <text>马冬梅</text>
+        </view>
+    </view>
+
+    <view class='user_list users_city users'>
+        <view class='city_left'>
+            <image src='../../status/3.jpg'></image>
+            <text>手机号</text>
+        </view>
+        <view class='city'>
+            <text>151615165</text>
+            <image src='../../status/6.jpg'></image>
+        </view>
+    </view>
+
+    <view class='user_list users_city'>
+        <view class='city_left'>
+            <image src='../../status/29.jpg'></image>
+            <text>当前积分</text>
+        </view>
+        <view class='city'>
+            <text>151615165</text>
+        </view>
+    </view>
+</view>

@@ -1,0 +1,31 @@
+<view class='wrap'>
+    <view class='list'>
+        <view class='title'>
+            <view class='title_left'>集中整理霸座行为</view>
+            
+
+        </view>
+        <view class='content'>
+            <view class='content_txt'>泰安市，隶属于山东省，位于山东省中部，北依山东省省会济南，南临儒家文化创 始人孔子故里曲阜，东连商城临沂，西濒黄河。北距省会济南市66.8千米，南至三孔圣地曲阜市74.6千米.....
+            </view>
+            <view class='content_img'>
+                <image src='https://t1.hddhhn.com/uploads/tu/201901/62/546f.jpg'></image>
+            </view>
+
+        </view>
+        <view class='title_right'>
+                <view>
+                    <image src='../../status/33.jpg' class='img img1'></image>
+                    <text class='read'>预览</text>
+                </view>
+                <view>
+                    <image src='../../status/32.jpg' class='img'></image>
+                    <text class='read'>分享</text>
+                </view>
+            </view>
+
+    </view>
+
+
+</view>
+<button>新增模板</button>

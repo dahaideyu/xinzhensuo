@@ -1,0 +1,60 @@
+<view class='wrap'>
+    <view class='item'>
+        <view class='title'>
+            <text>商品名称</text>
+            <text>已发货</text>
+        </view>
+        <view class='content'>
+            <view class='content_title'>
+                <text>成交金额（元）：2017</text>
+                <text >成交比列：3%</text>
+            </view>
+            <view>
+                <text>佣金：￥15.5</text>
+            </view>
+            <view class='content_last'>
+                <text>2018-10-10 10:10</text>
+                <text class='read'>查看物流</text>
+            </view>
+        </view>
+    </view>
+    <view class='item'>
+        <view class='title'>
+            <text>商品名称</text>
+            <text>已支付</text>
+        </view>
+        <view class='content'>
+            <view class='content_title'>
+                <text>成交金额（元）：2017</text>
+                <text >成交比列：3%</text>
+            </view>
+            <view>
+                <text>佣金：￥15.5</text>
+            </view>
+            <view class='content_last'>
+                <text>2018-10-10 10:10</text>
+                
+            </view>
+        </view>
+    </view>
+    <view class='item'>
+        <view class='title'>
+            <text>商品名称</text>
+            <text>已完成</text>
+        </view>
+        <view class='content'>
+            <view class='content_title'>
+                <text>成交金额（元）：2017</text>
+                <text >成交比列：3%</text>
+            </view>
+            <view>
+                <text>佣金：￥15.5</text>
+            </view>
+            <view class='content_last'>
+                <text>2018-10-10 10:10</text>
+            </view>
+        </view>
+    </view>
+
+
+</view>

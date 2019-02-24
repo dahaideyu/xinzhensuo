@@ -1,0 +1,147 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="C606D2A3-850B-E911-8963-60F81DB12488" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325">
+  <controls controlCount="21">
+    <control controlID="06348374-870B-E911-8963-60F81DB12488" controlTypeID="Shape" x="6" y="98" w="359" h="49" zOrder="0">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="D4DB9E0B-870B-E911-8963-60F81DB12488" controlTypeID="Shape" x="3" y="10" w="362" h="75" zOrder="1">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="4A571224-870B-E911-8963-60F81DB12488" controlTypeID="Icon" x="13" y="20" w="49" h="49" zOrder="2">
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62368</iconCode>
+      </icon>
+      <URL>B91434690C5B5224D1CC6B1998F1178A.svg</URL>
+    </control>
+    <control controlID="FE763D2A-870B-E911-8963-60F81DB12488" controlTypeID="Label" x="77" y="33" w="48" h="23" zOrder="3">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>%E5%BC%A0%E5%A4%A7%E7%88%B7</text>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="FE408D60-870B-E911-8963-60F81DB12488" controlTypeID="Label" x="12" y="114" w="42" h="20" zOrder="4">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>%E5%A7%93%E5%90%8D%EF%BC%9A</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="DA66028A-870B-E911-8963-60F81DB12488" controlTypeID="Line" x="51" y="132" w="296" h="2" zOrder="5">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <controlPoint>(148,1)</controlPoint>
+      <startPoint>(1,1)</startPoint>
+      <endPoint>(296,1)</endPoint>
+    </control>
+    <control controlID="64696A90-870B-E911-8963-60F81DB12488" controlTypeID="Shape" x="6" y="191" w="359" h="49" zOrder="6">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="D2696A90-870B-E911-8963-60F81DB12488" controlTypeID="Label" x="12" y="207" w="56" h="20" zOrder="7">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>%E6%89%8B%E6%9C%BA%E5%8F%B7%EF%BC%9A</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="2C6A6A90-870B-E911-8963-60F81DB12488" controlTypeID="Line" x="51" y="225" w="296" h="2" zOrder="8">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <controlPoint>(148,1)</controlPoint>
+      <startPoint>(1,1)</startPoint>
+      <endPoint>(296,1)</endPoint>
+    </control>
+    <control controlID="C88E77AE-870B-E911-8963-60F81DB12488" controlTypeID="Shape" x="6" y="239" w="359" h="49" zOrder="9">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="4A8F77AE-870B-E911-8963-60F81DB12488" controlTypeID="Label" x="12" y="255" w="56" h="20" zOrder="10">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>%E9%AA%8C%E8%AF%81%E7%A0%81%EF%BC%9A</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="AE8F77AE-870B-E911-8963-60F81DB12488" controlTypeID="Line" x="51" y="273" w="179" h="2" zOrder="11">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <controlPoint>(90,1)</controlPoint>
+      <startPoint>(1,1)</startPoint>
+      <endPoint>(179,1)</endPoint>
+    </control>
+    <control controlID="9EDD27C5-870B-E911-8963-60F81DB12488" controlTypeID="Button" x="245" y="241" w="120" h="48" zOrder="12">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>%E8%8E%B7%E5%8F%96%E9%AA%8C%E8%AF%81%E7%A0%81</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="CAC94EE0-870B-E911-8963-60F81DB12488" controlTypeID="Shape" x="6" y="142" w="359" h="49" zOrder="13">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="56CA4EE0-870B-E911-8963-60F81DB12488" controlTypeID="Label" x="12" y="158" w="70" h="20" zOrder="14">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>%E8%BA%AB%E4%BB%BD%E8%AF%81%E5%8F%B7%EF%BC%9A</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="BACA4EE0-870B-E911-8963-60F81DB12488" controlTypeID="Line" x="74" y="176" w="273" h="2" zOrder="15">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <controlPoint>(137,1)</controlPoint>
+      <startPoint>(1,1)</startPoint>
+      <endPoint>(273,1)</endPoint>
+    </control>
+    <control controlID="B0B9C4EE-870B-E911-8963-60F81DB12488" controlTypeID="Shape" x="5" y="289" w="360" h="44" zOrder="16">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="D4FECEF8-870B-E911-8963-60F81DB12488" controlTypeID="Label" x="9" y="301" w="70" h="20" zOrder="17">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>%E4%BB%A3%E7%90%86%E5%9F%8E%E5%B8%82%EF%BC%9A</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="5EC30B09-880B-E911-8963-60F81DB12488" controlTypeID="Icon" x="331" y="301" w="24" h="24" zOrder="18">
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62307</iconCode>
+      </icon>
+      <URL>2B26C789AF3EFEA925A6893B9D4A201A.svg</URL>
+    </control>
+    <control controlID="34450D0F-880B-E911-8963-60F81DB12488" controlTypeID="Label" x="257" y="301" w="56" h="20" zOrder="19">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>%E6%B2%B3%E5%8D%97%E4%BF%A1%E9%98%B3</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="92FB0142-880B-E911-8963-60F81DB12488" controlTypeID="Button" x="51" y="357" w="278" h="53" zOrder="20">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>%E7%94%B3%E8%AF%B7%E8%AE%A4%E8%AF%81</text>
+      <lineSpacing>0</lineSpacing>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

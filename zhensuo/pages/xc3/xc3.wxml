@@ -1,0 +1,79 @@
+<view class='wrap'>
+    <view class='list'>
+        <view class='title'>
+            <view class='title_left'>集中整理霸座行为</view>
+            <view class='title_right'>
+                <view >
+                    <image src='../../status/30.jpg' class='img img1'></image>
+                    <text class='read'>503</text>
+                </view>
+                <view >
+                    <image src='../../status/31.jpg' class='img'></image>
+                    <text class='read'>503</text>
+                </view>
+            </view>
+
+        </view>
+        <view class='content'>
+            <view class='content_txt'>泰安市，隶属于山东省，位于山东省中部，北依山东省省会济南，南临儒家文化创                  始人孔子故里曲阜，东连商城临沂，西濒黄河。北距省会济南市66.8千米，南至三孔圣地曲阜市74.6千米.....
+ </view>
+            <view class='content_img'>
+                <image src='https://t1.hddhhn.com/uploads/tu/201901/62/546f.jpg'></image>
+            </view>
+        
+        </view>
+    
+    </view>
+    <view class='list acitve'>
+        <view class='title'>
+            <view class='title_left'>集中整理霸座行为</view>
+            <view class='title_right'>
+                <view >
+                    <image src='../../status/30.jpg' class='img img1'></image>
+                    <text class='read'>503</text>
+                </view>
+                <view >
+                    <image src='../../status/31.jpg' class='img'></image>
+                    <text class='read'>503</text>
+                </view>
+            </view>
+
+        </view>
+        <view class='content'>
+            <view class='content_txt'>泰安市，隶属于山东省，位于山东省中部，北依山东省省会济南，南临儒家文化创                  始人孔子故里曲阜，东连商城临沂，西濒黄河。北距省会济南市66.8千米，南至三孔圣地曲阜市74.6千米.....
+ </view>
+            <view class='content_img'>
+                <image src='https://t1.hddhhn.com/uploads/tu/201901/62/546f.jpg'></image>
+            </view>
+        
+        </view>
+    
+    </view>
+    <view class='list acitve'>
+        <view class='title'>
+            <view class='title_left'>集中整理霸座行为</view>
+            <view class='title_right'>
+                <view >
+                    <image src='../../status/30.jpg' class='img img1'></image>
+                    <text class='read'>503</text>
+                </view>
+                <view >
+                    <image src='../../status/31.jpg' class='img'></image>
+                    <text class='read'>503</text>
+                </view>
+            </view>
+
+        </view>
+        <view class='content'>
+            <view class='content_txt'>泰安市，隶属于山东省，位于山东省中部，北依山东省省会济南，南临儒家文化创                  始人孔子故里曲阜，东连商城临沂，西濒黄河。北距省会济南市66.8千米，南至三孔圣地曲阜市74.6千米.....
+ </view>
+            <view class='content_img'>
+                <image src='https://t1.hddhhn.com/uploads/tu/201901/62/546f.jpg'></image>
+            </view>
+        
+        </view>
+    
+    </view>
+
+</view>
+<button>自定义发布</button>

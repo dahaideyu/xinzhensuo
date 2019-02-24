@@ -1,0 +1,48 @@
+<!--show.wxml-->
+<view class='wrap'>
+    <view class='title'>
+        <image class='head_portrait' src='http://img0.imgtn.bdimg.com/it/u=2369759387,2979550271&fm=26&gp=0.jpg'></image>
+        <view class='user_name'>马冬梅</view>
+    </view>
+</view>
+<!-- 模态框 -->
+<view class='wrap1'>
+    <view class='list_wrap'>
+        <view class='left'>
+            <image src='../../status/1.jpg'></image>
+            <text class='txt'>姓名</text>
+        </view>
+        <view class='right'>
+            <view class="container" class="zn-uploadimg">
+                <view>马冬梅</view>
+            </view>
+        </view>
+
+    </view>
+    <view class='list_wrap'>
+        <view class='left'>
+            <image src='../../status/3.jpg'></image>
+            <text class='txt'>手机号</text>
+        </view>
+        <view class='right'>
+            <view class="container" class="zn-uploadimg">
+                <view bindtap="modalinput">19934211212</view>
+                <image src='../../status/6.jpg' class='rigt'></image>
+            </view>
+        </view>
+
+    </view>
+
+</view>
+
+<modal hidden="{{hiddenmodalput}}" confirm-text="确定" bindcancel="cancel" bindconfirm="confirm">
+    <view class='modelinput'>
+        <text>手机号:</text>
+        <input type='text' auto-focus/>
+    </view>
+    <view class='token'>
+        <text class='token_num'>校验码:</text>
+        <input class='inp'></input>
+        <button class='btn'>获取校验码</button>
+    </view>
+</modal>

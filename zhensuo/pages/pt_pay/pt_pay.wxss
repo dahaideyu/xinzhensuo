@@ -1,0 +1,47 @@
+.radio {
+    display: block;
+}
+.page__bd{
+    display: flex;
+    justify-content: space-between;
+    padding: 20rpx;
+    line-height: 100rpx;
+}
+.left>image{
+    width:40rpx;
+    height: 35rpx;
+    padding-top:35rpx;
+    float: left
+}
+.title{
+    background: #00acc0;
+    text-align: center;
+    color: #fff;
+    line-height: 100rpx;
+}
+.add{
+    font-size: 30rpx;
+}
+.pagee{
+    padding: 0rpx 30rpx;
+    background: #fff;
+    border-top-left-radius: 10rpx;
+    border-top-right-radius: 10rpx;
+    margin-top: -10rpx;
+    overflow: hidden
+}
+.name{
+    font-size: 30rpx;
+    color: #666;
+    padding-left: 30rpx;
+}
+.btn{
+    text-align: center;
+    background: #00acc0;
+    color: #fff;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    border:none;
+    border-radius: 0;
+}

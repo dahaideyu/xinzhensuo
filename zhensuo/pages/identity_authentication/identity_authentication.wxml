@@ -1,0 +1,33 @@
+<view class='wrap'>
+    <view class='title'>
+        <image class='head_portrait' src='http://img0.imgtn.bdimg.com/it/u=2369759387,2979550271&fm=26&gp=0.jpg'></image>
+        <view class='user_name'>
+            <text>马冬梅</text>
+            <text class='identity_old'>已认证</text>
+        </view>
+        <view class='timer'>2018年10月</view>
+    </view>
+</view>
+<view class='user_wrap'>
+    <view class='list_wrap'>
+        <view class='left'>
+            <image class='images' src='../../status/1.jpg'></image>
+            <text class='left_text'>姓名</text>
+        </view>
+        <view class='right'>马冬梅</view>
+    </view>
+    <view class='list_wrap'>
+        <view class='left'>
+            <image class='images' src='../../status/2.jpg'></image>
+            <text class='left_text'>身份证号码</text>
+        </view>
+        <view class='right'>123456789101213212</view>
+    </view>
+    <view class='list_wrap phone'>
+        <view class='left'>
+            <image class='images' src='../../status/3.jpg'></image>
+            <text class='left_text'>手机号码</text>
+        </view>
+        <view class='right'>12345678910</view>
+    </view>
+</view>

@@ -1,0 +1,98 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="30553413-8D0B-E911-8963-60F81DB12488" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325">
+  <controls controlCount="15">
+    <control controlID="42C5D71F-8D0B-E911-8963-60F81DB12488" controlTypeID="Shape" x="10" y="36" w="355" h="100" zOrder="0">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="FA51552B-8D0B-E911-8963-60F81DB12488" controlTypeID="Label" x="17" y="46" w="70" h="20" zOrder="1">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>%E8%80%81%E6%9D%8E%E5%A4%B4%E8%AF%8A%E6%89%80</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="48327064-8D0B-E911-8963-60F81DB12488" controlTypeID="Label" x="302" y="47" w="43" h="18" zOrder="2">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>%C2%A512.64</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="B276DC80-8D0B-E911-8963-60F81DB12488" controlTypeID="Label" x="17" y="105" w="110" h="18" zOrder="3">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>2018-06-12+11%3A12</text>
+      <textColor>4288256409</textColor>
+      <lineSpacing>0</lineSpacing>
+    </control>
+    <control controlID="B2EFF395-8D0B-E911-8963-60F81DB12488" controlTypeID="Label" x="17" y="75" w="178" h="20" zOrder="4">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>%E6%88%90%E4%BA%A4%E9%87%91%E9%A2%9D%3A1109++%E6%88%90%E4%BA%A4%E6%AF%94%E4%BE%8B%3A3%25</text>
+      <lineSpacing>0</lineSpacing>
+    </control>
+    <control controlID="7E96ECC5-8D0B-E911-8963-60F81DB12488" controlTypeID="Shape" x="10" y="155" w="355" h="100" zOrder="5">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="0097ECC5-8D0B-E911-8963-60F81DB12488" controlTypeID="Label" x="17" y="165" w="70" h="20" zOrder="6">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>%E8%80%81%E6%9D%8E%E5%A4%B4%E8%AF%8A%E6%89%80</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="6E97ECC5-8D0B-E911-8963-60F81DB12488" controlTypeID="Label" x="302" y="166" w="43" h="18" zOrder="7">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>%C2%A512.64</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="C897ECC5-8D0B-E911-8963-60F81DB12488" controlTypeID="Label" x="17" y="224" w="110" h="18" zOrder="8">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>2018-06-12+11%3A12</text>
+      <textColor>4288256409</textColor>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="2C98ECC5-8D0B-E911-8963-60F81DB12488" controlTypeID="Label" x="17" y="194" w="178" h="20" zOrder="9">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>%E6%88%90%E4%BA%A4%E9%87%91%E9%A2%9D%3A1109++%E6%88%90%E4%BA%A4%E6%AF%94%E4%BE%8B%3A3%25</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="E4EB6FC8-8D0B-E911-8963-60F81DB12488" controlTypeID="Shape" x="10" y="273" w="355" h="100" zOrder="10">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="70EC6FC8-8D0B-E911-8963-60F81DB12488" controlTypeID="Label" x="17" y="283" w="70" h="20" zOrder="11">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>%E8%80%81%E6%9D%8E%E5%A4%B4%E8%AF%8A%E6%89%80</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="CAEC6FC8-8D0B-E911-8963-60F81DB12488" controlTypeID="Label" x="302" y="284" w="43" h="18" zOrder="12">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>%C2%A512.64</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="2EED6FC8-8D0B-E911-8963-60F81DB12488" controlTypeID="Label" x="17" y="342" w="110" h="18" zOrder="13">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>2018-06-12+11%3A12</text>
+      <textColor>4288256409</textColor>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="92ED6FC8-8D0B-E911-8963-60F81DB12488" controlTypeID="Label" x="17" y="312" w="178" h="20" zOrder="14">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>%E6%88%90%E4%BA%A4%E9%87%91%E9%A2%9D%3A1109++%E6%88%90%E4%BA%A4%E6%AF%94%E4%BE%8B%3A3%25</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

@@ -1,0 +1,73 @@
+/**index.wxss**/
+
+page {
+    background: #f4f4f4;
+}
+
+.wrap {
+    font-size: 20rpx;
+}
+
+.title {
+    width: 100%;
+    background: #00acc0;
+    overflow: hidden;
+    padding-bottom: 30rpx;
+}
+
+.head_portrait {
+    width: 150rpx;
+    height: 150rpx;
+    float: left;
+    border-radius: 50%;
+    margin-left: 25rpx;
+}
+
+.user_name {
+    float: left;
+    font-size: 35rpx;
+    color: #fff;
+    height: 150rpx;
+    line-height: 150rpx;
+    padding-left: 25rpx;
+}
+
+.user_name>text {
+    line-height: 80rpx;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.applay_ok {
+    width: 100rpx;
+    background: #fff;
+    height: 40rpx;
+    line-height: 40rpx;
+    font-size:25rpx;
+    color: #00acc0;
+    display: block;
+    border-radius: 20px
+}
+
+.user_wrap {
+    margin-top: 20rpx;
+    overflow: hidden;
+}
+
+.user_list {
+    height: 100rpx;
+    border-bottom: 1px solid #eee;
+    background: #fff;
+    display: flex;
+    display: -webkit-flex;
+    justify-content: space-between;
+    line-height: 100rpx;
+    padding-left: 20rpx;
+    padding-right: 20px;
+    font-size: 30rpx;
+}
+.users_phone{
+    margin-top: 20rpx;
+}
+

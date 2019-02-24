@@ -1,0 +1,52 @@
+<view class='wrap'>
+
+    <view class='list'>
+        <view class='left'>
+            <text>2018-12-23</text>
+            <text>10:30:55</text>
+        </view>
+        <view class='right '>-15200积分</view>
+    </view>
+    <view class='list'>
+        <view class='left'>
+            <text>2018-12-23</text>
+            <text>10:30:55</text>
+        </view>
+        <view class=' right'>-15200积分</view>
+    </view>
+    <view class='list'>
+        <view class='left'>
+            <text>2018-12-23</text>
+            <text>10:30:55</text>
+        </view>
+        <view class=' right'>-15200积分</view>
+    </view>
+    <view class='list'>
+        <view class='left'>
+            <text>2018-12-23</text>
+            <text>10:30:55</text>
+        </view>
+        <view class='right '>-15200积分</view>
+    </view>
+    <view class='list'>
+        <view class='left'>
+            <text>2018-12-23</text>
+            <text>10:30:55</text>
+        </view>
+        <view class='right '>-15200积分</view>
+    </view>
+    <view class='list active'>
+        <view class='left'>
+            <text>2018-12-23</text>
+            <text>10:30:55</text>
+        </view>
+        <view class=' right'>-15200积分</view>
+    </view>
+    <view class='list '>
+        <view class='left'>
+            <text>2018-12-23</text>
+            <text>10:30:55</text>
+        </view>
+        <view class='right '>-15200积分</view>
+    </view>
+</view>

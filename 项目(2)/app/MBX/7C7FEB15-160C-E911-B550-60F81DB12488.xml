@@ -1,0 +1,33 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="7C7FEB15-160C-E911-B550-60F81DB12488" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="5">
+    <control controlID="EC2C74BF-160C-E911-B550-60F81DB12488" controlTypeID="TextArea" x="20" y="31" w="345" h="146" zOrder="0">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>In+sit+amet+condimentum+felis%2C+quis+finibus+sapien.+Nunc+felis+nisi%2C+pellentesque+accumsan+diam+ut%2C+accumsan+porta+turpis.+Pellentesque+maximus+nec+ipsum+id+condimentum.+Integer+consequat%2C+massa+eget+laoreet+scelerisque%2C+sapien+turpis+varius+urna%2C+et+tempor+justo+nisl+eu+lectus.+Mauris+vestibulum+nibh+id+tortor+varius%2C+vitae+dictum+tortor+maximus.+Fusce+vel+dignissim+turpis%2C+a+pulvinar+enim.+Sed+imperdiet+tellus+ac+ornare+semper.%0D%0A</text>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="F4DEDFC6-160C-E911-B550-60F81DB12488" controlTypeID="Image" x="20" y="187" w="335" h="108" zOrder="1"/>
+    <control controlID="0EC0D6CA-160C-E911-B550-60F81DB12488" controlTypeID="Image" x="22" y="315" w="333" h="109" zOrder="2"/>
+    <control controlID="98167ECF-160C-E911-B550-60F81DB12488" controlTypeID="Shape" x="1" y="601" w="374" h="61" zOrder="3">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="24A594D5-160C-E911-B550-60F81DB12488" controlTypeID="Button" x="240" y="608" w="120" h="48" zOrder="4">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="AACB9111-FF0B-E911-B550-60F81DB12488" linkType="ltPageLink" isApplyIncludePage="False" title="%E8%B4%AD%E4%B9%B0%E5%95%86%E5%93%81">
+          <area shape="0" alt="" ID="{CE27F501-170C-E911-B550-60F81DB12488}" coords="(0,0,120,48)"/>
+        </link>
+      </links>
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>%E8%B4%AD%E4%B9%B0</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

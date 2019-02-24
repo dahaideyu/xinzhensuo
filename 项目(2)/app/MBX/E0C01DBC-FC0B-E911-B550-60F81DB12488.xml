@@ -1,0 +1,105 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="6275BB6E-F80B-E911-8963-60F81DB12488" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="16">
+    <control controlID="A869F626-FD0B-E911-B550-60F81DB12488" controlTypeID="Shape" x="10" y="110" w="355" h="130" zOrder="0">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="C828422F-F70B-E911-8963-60F81DB12488" controlTypeID="Label" x="16" y="124" w="70" h="20" zOrder="1">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>%E8%BF%99%E9%87%8C%E6%98%AF%E6%A0%87%E9%A2%98</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="EC1E4238-F70B-E911-8963-60F81DB12488" controlTypeID="TextArea" x="16" y="147" w="252" h="87" zOrder="2">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Fusce+egestas+facilisis+lorem%2C+in+egestas+massa+sollicitudin+at.+Suspendisse+potenti.+Praesent+ornare+commodo+quam%2C+a+tincidunt+nulla+tempor+eget.+Nam+libero+ligula%2C+ultrices+malesuada+rutrum+non%2C+vestibulum+eu+libero.+Proin+sed+enim+eu+lorem+facilisis+rhoncus.+Aliquam+erat+volutpat.+Ut+posuere+eleifend+congue.+Nulla+viverra+eros+ac+est+vestibulum%2C+et+sollicitudin+enim+dictum.+Sed+ut+justo+volutpat+mauris+condimentum+aliquam+sed+consectetur+nisi.+Morbi+ac+nulla+sollicitudin%2C+sodales+leo+sed%2C+vestibulum+justo.%0D%0A</text>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="D2674844-F70B-E911-8963-60F81DB12488" controlTypeID="Image" x="276" y="156" w="81" h="69" zOrder="3"/>
+    <control controlID="10C9856C-F70B-E911-8963-60F81DB12488" controlTypeID="Shape" x="10" y="254" w="355" h="130" zOrder="4">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="9CC9856C-F70B-E911-8963-60F81DB12488" controlTypeID="Label" x="16" y="264" w="70" h="20" zOrder="5">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>%E8%BF%99%E9%87%8C%E6%98%AF%E6%A0%87%E9%A2%98</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="00CA856C-F70B-E911-8963-60F81DB12488" controlTypeID="TextArea" x="16" y="287" w="252" h="87" zOrder="6">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Fusce+egestas+facilisis+lorem%2C+in+egestas+massa+sollicitudin+at.+Suspendisse+potenti.+Praesent+ornare+commodo+quam%2C+a+tincidunt+nulla+tempor+eget.+Nam+libero+ligula%2C+ultrices+malesuada+rutrum+non%2C+vestibulum+eu+libero.+Proin+sed+enim+eu+lorem+facilisis+rhoncus.+Aliquam+erat+volutpat.+Ut+posuere+eleifend+congue.+Nulla+viverra+eros+ac+est+vestibulum%2C+et+sollicitudin+enim+dictum.+Sed+ut+justo+volutpat+mauris+condimentum+aliquam+sed+consectetur+nisi.+Morbi+ac+nulla+sollicitudin%2C+sodales+leo+sed%2C+vestibulum+justo.%0D%0A</text>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="64CA856C-F70B-E911-8963-60F81DB12488" controlTypeID="Image" x="276" y="296" w="81" h="69" zOrder="7"/>
+    <control controlID="52332AEE-FC0B-E911-B550-60F81DB12488" controlTypeID="Button" x="16" y="50" w="349" h="42" zOrder="8">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="36F65E40-FC0B-E911-B550-60F81DB12488" linkType="ltPageLink" isApplyIncludePage="False" title="%E6%96%B0%E5%A2%9E%E6%A8%A1%E6%9D%BF">
+          <area shape="0" alt="" ID="{7CA0B804-FD0B-E911-B550-60F81DB12488}" coords="(0,0,349,42)"/>
+        </link>
+      </links>
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>%E6%96%B0%E5%A2%9E%E6%A8%A1%E6%9D%BF</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="2C87A70B-FD0B-E911-B550-60F81DB12488" controlTypeID="Shape" x="100" y="464" w="177" h="39" zOrder="9">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="F095F077-F70B-E911-8963-60F81DB12488" linkType="ltPageLink" isApplyIncludePage="False" title="%E9%A2%84%E8%A7%88">
+          <area shape="0" alt="" ID="{7CD9BDF9-FB0B-E911-B550-60F81DB12488}" coords="(0,0,177,39)"/>
+        </link>
+      </links>
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="AE87A70B-FD0B-E911-B550-60F81DB12488" controlTypeID="Shape" x="100" y="425" w="177" h="39" zOrder="10">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="0888A70B-FD0B-E911-B550-60F81DB12488" controlTypeID="Label" x="134" y="435" w="28" h="20" zOrder="11">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>%E5%88%86%E4%BA%AB</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="6C88A70B-FD0B-E911-B550-60F81DB12488" controlTypeID="Label" x="134" y="474" w="28" h="20" zOrder="12">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="F095F077-F70B-E911-8963-60F81DB12488" linkType="ltPageLink" isApplyIncludePage="False" title="%E9%A2%84%E8%A7%88">
+          <area shape="0" alt="" ID="{1A85AF76-FD0B-E911-B550-60F81DB12488}" coords="(0,0,28,20)"/>
+        </link>
+      </links>
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>%E9%A2%84%E8%A7%88</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="D088A70B-FD0B-E911-B550-60F81DB12488" controlTypeID="StickyNote" x="38" y="504" w="109" h="123" zOrder="13">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>%E7%82%B9%E5%87%BB%E5%88%97%E8%A1%A8%E6%9C%89%E5%BC%B9%E5%87%BA%E9%80%89%E6%8B%A9%E6%95%88%E6%9E%9C%EF%BC%88%E5%88%86%E4%BA%AB+%E6%88%96%E8%80%85+%E9%A2%84%E8%A7%88%EF%BC%89</text>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="B04A4C38-FD0B-E911-B550-60F81DB12488" controlTypeID="Label" x="301" y="124" w="42" h="20" zOrder="14">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>%E5%B7%B2%E9%80%9A%E8%BF%87</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="06D3A03C-FD0B-E911-B550-60F81DB12488" controlTypeID="Label" x="303" y="265" w="42" h="20" zOrder="15">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>%E5%AE%A1%E6%A0%B8%E4%B8%AD</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

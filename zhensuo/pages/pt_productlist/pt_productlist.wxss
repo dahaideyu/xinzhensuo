@@ -1,0 +1,45 @@
+.list_wrap{
+    display: flex;
+    justify-content: space-between;
+    padding: 30rpx;
+    border-bottom: 1px solid #eee;
+}
+.left>image{
+    width: 300rpx;
+    height: 150rpx;
+    border-radius: 7rpx;
+}
+.right{
+    padding-left: 30rpx;
+}
+.title{
+    color: #00acc0;
+    font-size: 35rpx;
+}
+.jianj{
+    font-size: 30rpx;
+    color: #666;
+    padding-top: 10rpx;
+}
+.red{
+    width: 30rpx;
+    height: 30rpx;
+    padding-left: 30rpx;
+}
+.swiper-tab{  
+    width: 100%;  
+    border-bottom: 2rpx solid #00a0e8;  
+    text-align: center;  
+    line-height: 80rpx;}  
+.swiper-tab-list{  font-size: 30rpx;  
+    display: inline-block;  
+    width: 33.33%;  
+    color: #00a0e8;  
+}  
+.on{ color: #00a0e8;  
+    border-bottom: 5rpx solid #00a0e8;}  
+  
+.swiper-box{ display: block; height: 100%; width: 100%; overflow: hidden; }  
+.swiper-box view{  
+    text-align: center;  
+} 

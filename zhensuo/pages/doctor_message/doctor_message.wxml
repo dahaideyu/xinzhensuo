@@ -1,0 +1,22 @@
+<!-- 医生头像信息简介 -->
+    <view class='doctor'>
+        <view class='doctor_message'>
+            <view class='head'>
+                <image src='https://ss0.bdstatic.com/94oJfD_bAAcT8t7mm9GUKT-xh_/timg?image&quality=100&size=b4000_4000&sec=1547355485&di=f8dde1f85d64e1e7b1ac45d7d2db7462&src=http://pic11.nipic.com/20101217/2531170_114745343924_2.jpg'></image>
+            </view>
+            <view class='doctor_name'>张医生</view>
+            <view class='docto_text'>
+                <text class='doctos_message'>擅长各种妇科疾病，擅长临床诊治，擅长中医药理，精通各种巴拉巴拉</text>
+            </view>
+        </view>
+        <view class='doctor_message'>
+            <view class='head'>
+                <image src='https://ss0.bdstatic.com/94oJfD_bAAcT8t7mm9GUKT-xh_/timg?image&quality=100&size=b4000_4000&sec=1547355485&di=f8dde1f85d64e1e7b1ac45d7d2db7462&src=http://pic11.nipic.com/20101217/2531170_114745343924_2.jpg'></image>
+            </view>
+            <view class='doctor_name'>张医生</view>
+            <view class='docto_text'>
+                <text class='doctos_message'>擅长各种妇科疾病，擅长临床诊治，擅长中医药理，精通各种巴拉巴拉</text>
+            </view>
+        </view>
+    </view>
+<button class='add_clinic' hover-class='add_class'>添加医生</button>

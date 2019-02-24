@@ -1,0 +1,55 @@
+<view class='title'>
+    <view class='img'>
+        <image src='../../status/i.png'></image>
+    </view>
+    <text class='title_name'>待支付</text>
+</view>
+<view class='adress'>
+    <view class='left'>
+        <image src='../../status/16.jpg'></image>
+        <text class='adress_name'>马栏山狗蛋坡三组十六号</text>
+        <view class='adress_user'>
+            <text>马冬梅</text>
+            <text>110****1234</text>
+        </view>
+    </view>
+    <view class='right'>
+        <image src='../../status/6.jpg'></image>
+    </view>
+</view>
+<view class='content'>
+    <view class='content_title'>
+        <view class='left1'>
+            <image src='http://photo.l99.com/bigger/fe7/1465711030390_ej3r7g.jpg'></image>
+        </view>
+        <view class='right1'>
+            <text>活性炭生物活性齿白凝胶</text>
+            <text>￥1221220.23</text>
+        </view>
+    </view>
+</view>
+<view class='text_add'>
+    <text>订单编号：BJ1021212564512313</text>
+    <text>下单时间：2018-12-12 10:10:10</text>
+    <text>支付时间：2018-12-12 10:10:10</text>
+</view>
+<view class='item_list'>
+    <view class='list_add'>
+        <text>商品金额</text>
+        <text>￥1202.0</text>
+    </view>
+    <view class='list_add'>
+        <text>快递费</text>
+        <text>￥1202.0</text>
+    </view>
+    <view class=' list_price'>
+        <view>
+            <text>￥99998</text>
+            <text>合计</text>
+        </view>
+    </view>
+</view>
+<view class='btn'>
+    <view>取消订单</view>
+    <view>去支付</view>
+</view>

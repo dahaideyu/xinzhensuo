@@ -1,0 +1,35 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="920ECD05-120D-E911-A19D-60F81DB12488" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325">
+  <controls controlCount="5">
+    <control controlID="2434FB0B-120D-E911-A19D-60F81DB12488" controlTypeID="Label" x="31" y="49" w="42" h="20" zOrder="0">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>%E5%A7%93%E5%90%8D%EF%BC%9A</text>
+      <lineSpacing>0</lineSpacing>
+    </control>
+    <control controlID="B4791E13-120D-E911-A19D-60F81DB12488" controlTypeID="TextInput" x="73" y="39" w="138" h="39" zOrder="1">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <lineSpacing>0</lineSpacing>
+    </control>
+    <control controlID="66943016-120D-E911-A19D-60F81DB12488" controlTypeID="Label" x="31" y="95" w="70" h="20" zOrder="2">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>%E7%94%B5%E8%AF%9D%E5%8F%B7%E7%A0%81%EF%BC%9A</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="7EB4CB1A-120D-E911-A19D-60F81DB12488" controlTypeID="TextInput" x="101" y="88" w="138" h="39" zOrder="3">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="9AD1931E-120D-E911-A19D-60F81DB12488" controlTypeID="Button" x="106" y="161" w="120" h="48" zOrder="4">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>%E7%A1%AE%E5%AE%9A</text>
+      <lineSpacing>0</lineSpacing>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

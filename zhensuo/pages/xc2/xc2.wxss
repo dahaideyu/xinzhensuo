@@ -1,0 +1,116 @@
+page {
+    background: #f4f4f4;
+}
+
+.wrap {
+    font-size: 20rpx;
+}
+
+.title {
+    width: 100%;
+    background: #00acc0;
+    overflow: hidden;
+    padding-bottom: 30rpx;
+}
+
+.head_portrait {
+    width: 150rpx;
+    height: 150rpx;
+    float: left;
+    border-radius: 50%;
+    margin-left: 25rpx;
+}
+
+.user_name {
+    float: left;
+    font-size: 35rpx;
+    color: #fff;
+    height: 150rpx;
+    line-height: 150rpx;
+    padding-left: 25rpx;
+}
+
+.list_wrap {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 30rpx;
+    background: #fff;
+    line-height: 100rpx;
+    font-size: 30rpx;
+    color: #666;
+    border-top: 1px solid #eee;
+}
+
+.left>image {
+    width: 60rpx;
+    height: 60rpx;
+    float: left;
+    padding-top: 20rpx;
+}
+
+.wrap1 {
+    margin-top: 30rpx;
+    overflow: hidden;
+}
+
+.txt {
+    padding-left: 30rpx;
+}
+
+.rigt {
+    width: 20rpx;
+    height: 30rpx;
+    float: right;
+    padding-top: 37rpx;
+    padding-left: 30rpx;
+}
+
+.zn-uploadimg {
+    display: flex;
+    justify-content: space-between;
+}
+
+.modelinput {
+    display: flex;
+    justify-content: start;
+    line-height: 100rpx;
+    overflow: hidden;
+}
+
+.modelinput>input {
+    height: 80rpx;
+    background: #eee;
+    margin-top: 10rpx;
+    border-radius: 10rpx;
+    margin-left: 10rpx;
+    width: 70%;
+}
+
+.token {
+    display: flex;
+    justify-content: start;
+    line-height: 100rpx;
+}
+
+.inp {
+    background: #eee;
+    width: 40%;
+    height: 80rpx;
+    background: #eee;
+    margin-top: 10rpx;
+    border-radius: 10rpx;
+    margin-left: 10rpx;
+}
+
+.btn {
+    width: 150rpx;
+    font-size: 18rpx;
+    height: 80rpx;
+    background: #fff;
+    margin-top: 10rpx;
+    border-radius: 10rpx;
+    margin-left: 10rpx;
+    color: #00acc0;
+    border: 1px solid #00acc0;
+    line-height: 80rpx;
+}

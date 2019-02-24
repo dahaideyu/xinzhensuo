@@ -1,0 +1,55 @@
+page{
+    background: #f4f4f4
+}
+.wrap{
+    font-size: 30rpx;
+    color: #666;
+    text-align: center;
+    overflow: hidden
+}
+.title{
+    margin-top: 150rpx;
+    line-height: 100rpx;
+}
+.erweima{
+    width: 420rpx;
+    height: 420rpx;
+}
+.btn{
+    overflow: hidden;
+    margin-top: 50rpx;
+}
+.btn>button{
+    float: left;
+    font-size: 30rpx;
+    border: 1px solid #00acc0;
+    
+}
+.btn>button:nth-child(1){
+    margin-left: 165rpx;
+    
+}
+.btn>button:nth-child(2){
+    margin-left: 30rpx;
+    padding: 0 50rpx;
+}
+.active{
+    color: #00acc0
+}
+.actives{
+    background: #00acc0;
+    color: #fff;
+}
+.add{
+    background: #00acc0;
+    color: #fff;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    border: none;
+    border-radius: 0;
+}
+.add1{
+    background: #fff;
+    color: #00acc0;
+}

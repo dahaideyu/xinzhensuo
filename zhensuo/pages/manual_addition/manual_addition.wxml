@@ -1,0 +1,19 @@
+<view class='user_wrap'>
+    <view class='user_list users_name'>
+        <image src='../../status/1.jpg'></image>
+        <text>姓名</text>
+        <input placeholder='请输入'></input>
+    </view>
+
+
+    <view class='user_list '>
+        <image src='../../status/3.jpg'></image>
+        <text>手机号码</text>
+        <input placeholder='请输入'></input>
+    </view>
+
+
+
+ 
+</view>
+<button class='apply' hover-class='clickone'>确定</button>

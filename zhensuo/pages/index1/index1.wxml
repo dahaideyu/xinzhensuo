@@ -1,0 +1,86 @@
+<view class='wrap'>
+  <view class='title'>
+    <image class='head_portrait' src='http://img0.imgtn.bdimg.com/it/u=2369759387,2979550271&fm=26&gp=0.jpg'></image>
+    <view class='user_name'>马冬梅</view>
+  </view>
+</view>
+<view class='user_wrap'>
+  <view class='user_list users_name'>
+    <image src='../../status/1.jpg'></image>
+    <text>姓名</text>
+    <input bindinput="fullnameInput" placeholder='请输入'></input>
+  </view>
+
+  <view class='user_list users_idcar'>
+    <image src='../../status/2.jpg'></image>
+    <text>身份证号码</text>
+    <input bindinput="idcardInput" placeholder='请输入'></input>
+  </view>
+
+  <view class='user_list users_phone'>
+    <image src='../../status/3.jpg'></image>
+    <text>手机号码</text>
+    <input bindinput="mobileInput" type="number" placeholder='请输入'></input>
+  </view>
+
+  <view class='user_list users_token'>
+    <image src='../../status/4.jpg'></image>
+    <text>验证码</text>
+    <input bindinput="codeInput" type="number" placeholder='请输入'></input>
+    <button bindtap="SendCode" class='add' hover-class='add_token'>校验码</button>
+  </view>
+
+  <view class='user_list users_city' bindtap="selectDistrict">
+    <view class='city_left'>
+      <image src='../../status/5.jpg'></image>
+      <text>代理城市</text>
+    </view>
+    <!-- <picker              
+    mode="multiSelector"
+    value="{{select}}" 
+  range="{{region}}"
+  bindchange="bindChange" 
+  bindcolumnchange="bindColumnChange" 
+  >
+    <view class="picker">
+      当前选择： 
+    </view>
+  </picker>
+
+ 
+        <view class='city'>
+            <text>成都</text>
+            <image src='../../status/6.jpg'></image>
+        </view>-->
+
+
+    <view class='city'>
+      <text>{{areaInfo}}</text>
+
+    </view>
+  </view>
+</view>
+
+<view class='container mask' style="display:{{display}}">
+</view>
+<view class="picker-view" animation="{{animationAddressMenu}}" style="visibility:{{addressMenuIsShow ? 'visible':'hidden'}}">
+  <view style="height:10% ;width:95%;margin-top:10rpx">
+    <text catchtap="cityCancel">取消</text>
+    <text style="float: right" catchtap="citySure">确定</text>
+  </view>
+
+  <picker-view style="width: 100%; height: 300px;" bindchange="cityChange" value="{{value}}" wx:key="">
+    <picker-view-column>
+      <view wx:for="{{provinces}}" class="picker-item">
+        {{item.province}}</view>
+    </picker-view-column>
+    <picker-view-column>
+      <view wx:for="{{citys}}" class="picker-item" wx:key="">
+        {{item}}</view>
+    </picker-view-column>
+
+  </picker-view>
+
+</view>
+
+<button class='apply' bindtap="applyCityAgent" hover-class='clickone'>申请认证</button>

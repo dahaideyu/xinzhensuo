@@ -1,0 +1,79 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="585587DD-8D0B-E911-8963-60F81DB12488" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325">
+  <controls controlCount="12">
+    <control controlID="904E7AEB-8D0B-E911-8963-60F81DB12488" controlTypeID="Shape" x="10" y="34" w="355" h="134" zOrder="0">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="2C1EE9F2-8D0B-E911-8963-60F81DB12488" controlTypeID="Label" x="20" y="49" w="98" h="20" zOrder="1">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>%E6%AC%A2%E8%BF%8E%E5%8A%A0%E5%85%A5%E5%A4%A7%E5%AE%B6%E5%BA%AD</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="E4322215-8E0B-E911-8963-60F81DB12488" controlTypeID="Label" x="245" y="50" w="110" h="18" zOrder="2">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>2018-10-10+11%3A19</text>
+      <textColor>4288256409</textColor>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="6EEC5638-8E0B-E911-8963-60F81DB12488" controlTypeID="TextArea" x="20" y="74" w="335" h="89" zOrder="3">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Phasellus+porta+fermentum+est+et+eleifend.+Pellentesque+dapibus+fermentum+tortor%2C+non+fermentum+sem+vehicula+sit+amet.+Vivamus+sed+justo+nisl.+Nunc+suscipit+scelerisque+ex%2C+at+mattis+ipsum+elementum+sed%0A</text>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="1871CF4F-8E0B-E911-8963-60F81DB12488" controlTypeID="Shape" x="10" y="184" w="355" h="134" zOrder="4">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="9A71CF4F-8E0B-E911-8963-60F81DB12488" controlTypeID="Label" x="20" y="199" w="98" h="20" zOrder="5">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>%E6%AC%A2%E8%BF%8E%E5%8A%A0%E5%85%A5%E5%A4%A7%E5%AE%B6%E5%BA%AD</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="5872CF4F-8E0B-E911-8963-60F81DB12488" controlTypeID="Label" x="245" y="200" w="110" h="18" zOrder="6">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>2018-10-10+11%3A19</text>
+      <textColor>4288256409</textColor>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="B272CF4F-8E0B-E911-8963-60F81DB12488" controlTypeID="TextArea" x="20" y="224" w="335" h="89" zOrder="7">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Phasellus+porta+fermentum+est+et+eleifend.+Pellentesque+dapibus+fermentum+tortor%2C+non+fermentum+sem+vehicula+sit+amet.+Vivamus+sed+justo+nisl.+Nunc+suscipit+scelerisque+ex%2C+at+mattis+ipsum+elementum+sed%0A</text>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="28872D53-8E0B-E911-8963-60F81DB12488" controlTypeID="Shape" x="10" y="332" w="355" h="134" zOrder="8">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="96872D53-8E0B-E911-8963-60F81DB12488" controlTypeID="Label" x="20" y="347" w="98" h="20" zOrder="9">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>%E6%AC%A2%E8%BF%8E%E5%8A%A0%E5%85%A5%E5%A4%A7%E5%AE%B6%E5%BA%AD</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="36882D53-8E0B-E911-8963-60F81DB12488" controlTypeID="Label" x="245" y="348" w="110" h="18" zOrder="10">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>2018-10-10+11%3A19</text>
+      <textColor>4288256409</textColor>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="86882D53-8E0B-E911-8963-60F81DB12488" controlTypeID="TextArea" x="20" y="372" w="335" h="89" zOrder="11">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Phasellus+porta+fermentum+est+et+eleifend.+Pellentesque+dapibus+fermentum+tortor%2C+non+fermentum+sem+vehicula+sit+amet.+Vivamus+sed+justo+nisl.+Nunc+suscipit+scelerisque+ex%2C+at+mattis+ipsum+elementum+sed%0A</text>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

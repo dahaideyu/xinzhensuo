@@ -1,0 +1,53 @@
+page{
+    background: #fff
+}
+.item_list{
+    background: #fff;
+    margin-top: 30rpx;
+    overflow: hidden
+}
+.title{
+    position: relative;
+    width: 95%;
+    margin: 0 auto;
+    background: #00acc0;
+    border-radius: 10rpx;
+    min-height: 305rpx;
+    margin-top: 20rpx;
+}
+.dateto{
+    position: absolute;
+    bottom: 10rpx;
+    font-size: 25rpx;
+    color: #fff;
+    padding-left: 30rpx;
+    padding-bottom: 10rpx;
+}
+
+.last{
+    width: 95%;
+    margin: 0 auto;
+    line-height: 60rpx;
+    overflow: hidden;
+    margin-top: 30rpx;
+}
+.last>text{
+    display: block;
+    font-size: 30rpx;
+    color: #666;
+}
+#last_titile{
+    font-size: 35rpx;
+    color: #00acc0;
+    line-height: 80rpx;
+}
+button{
+    background: #00acc0;
+    position: fixed;
+    width: 100%;
+    color: #fff;
+    bottom: 0;
+    border-radius: 0;
+    text-align: center;
+    line-height: 100rpx;
+}

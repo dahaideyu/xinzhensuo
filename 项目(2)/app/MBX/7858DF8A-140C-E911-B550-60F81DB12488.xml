@@ -1,0 +1,55 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="7858DF8A-140C-E911-B550-60F81DB12488" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="9">
+    <control controlID="7C74A590-140C-E911-B550-60F81DB12488" controlTypeID="Shape" x="15" y="28" w="345" h="110" zOrder="0">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="16760897-140C-E911-B550-60F81DB12488" controlTypeID="Image" x="25" y="44" w="79" h="66" zOrder="1"/>
+    <control controlID="F29A039B-140C-E911-B550-60F81DB12488" controlTypeID="Label" x="119" y="49" w="42" h="20" zOrder="2">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>%E7%8E%8B%E5%8C%BB%E7%94%9F</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="7C9ADAA3-140C-E911-B550-60F81DB12488" controlTypeID="TextArea" x="117" y="73" w="240" h="37" zOrder="3">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Duis+eget+sagittis+nunc.+Aenean+quis+aliquet+nisi%2C+in+porttitor+lectus.+Praesent+ac+placerat+lectus%2C+finibus+condimentum+tortor.+Integer+posuere+at+neque+a+ornare.+Duis+sapien+eros%2C+euismod+quis+ligula+in%2C+semper+ultricies+velit.+Nunc+lorem+elit%2C+varius+nec+metus+vel%2C+commodo+euismod+nunc.+Fusce+nec+arcu+imperdiet%2C+porta+lacus+a%2C+feugiat+elit.+Mauris+fringilla+ante+sit+amet+arcu+vestibulum%2C+eu+maximus+dolor+varius.+Aliquam+arcu+augue%2C+elementum+et+est+et%2C+convallis+sodales+neque.%0D%0A</text>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="C6CE3CAA-140C-E911-B550-60F81DB12488" controlTypeID="Shape" x="16" y="167" w="345" h="110" zOrder="4">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="34CF3CAA-140C-E911-B550-60F81DB12488" controlTypeID="Image" x="26" y="183" w="79" h="66" zOrder="5"/>
+    <control controlID="84CF3CAA-140C-E911-B550-60F81DB12488" controlTypeID="Label" x="120" y="188" w="42" h="20" zOrder="6">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>%E7%8E%8B%E5%8C%BB%E7%94%9F</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="DECF3CAA-140C-E911-B550-60F81DB12488" controlTypeID="TextArea" x="118" y="212" w="240" h="37" zOrder="7">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Duis+eget+sagittis+nunc.+Aenean+quis+aliquet+nisi%2C+in+porttitor+lectus.+Praesent+ac+placerat+lectus%2C+finibus+condimentum+tortor.+Integer+posuere+at+neque+a+ornare.+Duis+sapien+eros%2C+euismod+quis+ligula+in%2C+semper+ultricies+velit.+Nunc+lorem+elit%2C+varius+nec+metus+vel%2C+commodo+euismod+nunc.+Fusce+nec+arcu+imperdiet%2C+porta+lacus+a%2C+feugiat+elit.+Mauris+fringilla+ante+sit+amet+arcu+vestibulum%2C+eu+maximus+dolor+varius.+Aliquam+arcu+augue%2C+elementum+et+est+et%2C+convallis+sodales+neque.%0D%0A</text>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="9EE8DEB1-140C-E911-B550-60F81DB12488" controlTypeID="Button" x="26" y="322" w="313" h="44" zOrder="8">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="BED004BB-140C-E911-B550-60F81DB12488" linkType="ltPageLink" isApplyIncludePage="False" title="%E6%B7%BB%E5%8A%A0%E5%8C%BB%E7%94%9F">
+          <area shape="0" alt="" ID="{8A468AE4-140C-E911-B550-60F81DB12488}" coords="(0,0,313,44)"/>
+        </link>
+      </links>
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>%E6%B7%BB%E5%8A%A0%E5%8C%BB%E7%94%9F</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

@@ -1,0 +1,12 @@
+<view class='item_list'>
+    <view class='title'>
+
+    </view>
+    <view class='last'>
+        <text id='last_titile'>卡包主题</text>
+        <text>有效期：自购买之日起1年内有效</text>
+        <text>使用次数：10次</text>
+        <text>产品说明：巴拉巴拉吧</text>
+    </view>
+</view>
+<button>使用</button>

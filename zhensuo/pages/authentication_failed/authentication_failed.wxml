@@ -1,0 +1,61 @@
+<view class='wrap'>
+    <view class='title'>
+        <image class='head_portrait' src='http://img0.imgtn.bdimg.com/it/u=2369759387,2979550271&fm=26&gp=0.jpg'></image>
+        <view class='user_name'>
+            <text>马冬梅</text>
+            <text class='identity_old'>认证失败</text>
+        </view>
+        <view class='timer'>2018年10月</view>
+    </view>
+</view>
+<view class='user_wrap'>
+    <view class='list_wrap'>
+        <view class='left'>
+            <image class='images' src='../../status/11.jpg'></image>
+            <text class='left_text'>诊所名称</text>
+        </view>
+        <view class='right'>宝芝堂</view>
+    </view>
+    <view class='list_wrap'>
+        <view class='left'>
+            <image class='images' src='../../status/12.jpg'></image>
+            <text class='left_text'>诊所地址</text>
+        </view>
+        <view class='right'>天堂街66号</view>
+    </view>
+    <view class='list_wrap user_photo'>
+        <view class='left'>
+            <image class='images' src='../../status/18.jpg'></image>
+            <text class='left_text'>门店形象</text>
+        </view>
+    </view>
+    <!-- 照片 -->
+    <view class='photo'>
+        <image src='http://t2.hddhhn.com/uploads/tu/201812/391/1.jpg'></image>
+        <image src='http://t2.hddhhn.com/uploads/tu/201812/278/20181016120920274.jpg'></image>
+    </view>
+    <!-- 照片 -->
+    <view class='list_wrap list_name'>
+        <view class='left'>
+            <image class='images' src='../../status/1.jpg'></image>
+            <text class='left_text'>姓名</text>
+        </view>
+        <view class='right'>马冬梅</view>
+    </view>
+    <view class='list_wrap'>
+        <view class='left'>
+            <image class='images' src='../../status/2.jpg'></image>
+            <text class='left_text'>身份证号码</text>
+        </view>
+        <view class='right'>123456789101213212</view>
+    </view>
+    <view class='list_wrap phone'>
+        <view class='left'>
+            <image class='images' src='../../status/3.jpg'></image>
+            <text class='left_text'>手机号码</text>
+        </view>
+        <view class='right'>12345678910</view>
+    </view>
+
+</view>
+    <button class='agen' hover-class='agen_last'>重新认证</button>

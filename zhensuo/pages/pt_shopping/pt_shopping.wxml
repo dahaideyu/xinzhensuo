@@ -1,0 +1,94 @@
+<view class="title" wx:if="{{address.length>0}}">
+    <view class='left'>
+        <view class='list'>
+            <image src='../../status/02.jpg'></image>
+            <text>{{address[0].receiveAddress}}</text>
+        </view>
+        <view class='user'>
+            <text>{{address[0].receiveName}}</text>
+            <text>{{address[0].receiveMobile}}</text>
+        </view>
+    </view>
+    <view class='right'>
+        <image src='../../status/right.png'></image>
+    </view>
+</view>
+<view  class="title" wx:else>
+<view bindtap="AddAddress"> 添加收获地址</view>
+</view>
+<view class='list_wrap'>
+    <view class='item'>
+        <view>
+            <text>支付方式</text>
+        </view>
+        <view class='right_item'>
+            <text>在线支付</text>
+        </view>
+    </view>
+    <view class='item'>
+        <view>
+            <text>送货方式</text>
+        </view>
+        <view class='right_item'>
+            <view class='select_box'>
+                <view class='select' catchtap='selectTap'>
+                    <text class='select_text'>{{selectData[index]}}</text>
+                    <image class='select_img {{show&&"select_img_rotate"}}' src='../../status/6.jpg'></image>
+                </view>
+                <view class='option_box' style='height:{{show?(selectData.length>5?300:selectData.length*60):0}}rpx;'>
+                    <text class='option' style='{{index==selectData.length-1&&"border:0;"}}' wx:for='{{selectData}}' wx:key='this' data-index='{{index}}' catchtap='optionTap'>{{item}}</text>
+                </view>
+            </view>
+        </view>
+    </view>
+    <view class='item' style='border:none'>
+        <view>
+            <text>金额</text>
+        </view>
+        <view class='right_item'>
+            <text>￥{{pdetail.goodsprice}}</text>
+        </view>
+    </view>
+    <view class='item'>
+        <view>
+            <text>快递费</text>
+        </view>
+        <view class='right_item'>
+            <text>￥{{transprice}}</text>
+        </view>
+    </view>
+    <view class="add">
+        <text class='add1'>合计 </text>
+        <text class='add_price'>￥{{pdetail.goodsprice+transprice}}</text>
+    </view>
+</view>
+<view class='btn'>
+    <view>
+        <view>
+            <text class='price_add'>合计 </text>
+            <text class='price_add1'>￥{{pdetail.goodsprice+transprice}}</text>
+        </view>
+    </view>
+    <view>提交订单</view>
+</view>
+
+ <!--收货地址弹窗-->
+  <view class="modal-mask" bindtap="hideModal" catchtouchmove="preventTouchMove" wx:if="{{addAddressArea}}"></view>
+  <view class="modal-dialog" wx:if="{{addAddressArea}}">
+    <view class="modal-title">地址信息</view>
+    <view class="modal-content">
+      <view class="modal-input">
+        <input placeholder-class="input-holder" type="text"  bindinput="AddressInput" class="input input-code" placeholder="地址"></input>
+      </view>
+      <view class="modal-input">
+        <input placeholder-class="input-holder" type="number" maxlength="11" bindinput="AddressMobileInput" class="input" placeholder="收货电话"></input>
+      </view>
+        <view class="modal-input">
+        <input placeholder-class="input-holder" type="text"  bindinput="AddressNameInput" class="input input-code" placeholder="收货姓名"></input>
+      </view>
+    </view>
+    <view class="modal-footer">
+      <view class="btn-cancel" bindtap="onCancel" data-status="cancel">取消</view>
+      <view class="btn-confirm" bindtap="addAddressFun" data-status="confirm">确定</view>
+    </view>
+  </view>

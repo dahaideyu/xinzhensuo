@@ -1,0 +1,132 @@
+page{
+    background: #f4f4f4
+}
+.title{
+    display:  flex;
+    justify-content: space-between;
+    overflow: hidden;
+    height: 80rpx;
+    line-height: 80rpx;
+    font-size: 30rpx;
+    padding: 0 30rpx;
+    border-bottom: 1px solid #eee;
+    background: #fff;
+}
+.left>text{
+    float: left;
+    padding: 0 10rpx;
+    color: #00acc0;
+}
+.right{
+    display: flex;
+    justify-content: space-between;
+    color: #666;
+    font-size: 25rpx;
+}
+.right>image{
+    width: 20rpx;
+    height: 30rpx;
+    margin-top: 28rpx;
+    padding-left: 15rpx;
+}
+.pt_body{
+    padding: 30rpx 30rpx;
+    background: #fff;
+    margin-top: 30rpx;
+    overflow: hidden
+}
+.pt_body>view:nth-child(even){
+    margin-left: 40rpx;
+}
+.pt_body>view{
+    width: 47%;
+    float: left;
+    text-align: left;
+    margin-top: 10rpx;
+}
+
+
+.pt_body>view>text{
+    display: block;
+     font-size: 30rpx;
+}
+
+
+.pt_body>view>image{
+    width: 100%;
+    height: 220rpx;
+    border-radius: 20rpx;
+}
+.title_list{
+    margin-top:30rpx;
+}
+.product{
+    background: #fff;
+    margin-bottom: 100rpx;
+}
+.product_list{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #ccc;
+    height: 200rpx;
+    padding: 30rpx 10rpx 0 30rpx;
+}
+.product_left{
+    width: 30%
+}
+.product_left>image{
+    width: 100%;
+    height: 140rpx;
+    border-radius: 10rpx;
+}
+product_right{
+    width: 70%;
+    display: block
+}
+.prodcut_title{
+    font-size: 30rpx;
+    color: #666
+}
+.wrap{
+    font-size: 30rpx;
+    margin-top: 10rpx;
+    overflow: hidden;
+}
+.prodcut_price{
+    float: left;
+    color:#ff0651
+}
+.prodcut_number{
+    float: right;
+    color: #666;
+}
+.product_last{
+    border:1px solid #00acc0;
+    width: 130rpx;
+    font-size: 25rpx;
+    text-align: center;
+    padding: 8rpx 0;
+    border-radius: 10rpx;
+    background: #f4fbfc;
+    color: #00acc0
+}
+.navbar{
+    position: fixed;
+    bottom: 0;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    background: #fff;
+}
+.navbar>view{
+    width: 50%;
+    text-align: center;
+    line-height: 100rpx;
+    color: #666
+}
+.navbar>view:last-child{
+    border-left: 1px solid #ccc
+}
+.chose{
+    color: #00acc0;
+}

@@ -1,0 +1,46 @@
+page{
+    background: #f4f4f4;
+}
+.wrap{
+
+    overflow: hidden;
+}
+.item{
+    background: #fff;
+    padding: 0 30rpx 30rpx 30rpx;
+    color: #666;
+    margin-top: 30rpx;
+}
+.title{
+    border-bottom: 1px solid #eee;
+    display: flex;
+    justify-content: space-between;
+    line-height: 80rpx;
+}
+.title>text:first-child{
+    color: #00acc0;
+    
+}
+.title>text:last-child{
+    font-size: 30rpx;
+}
+.content{
+    font-size: 30rpx;
+    line-height: 50rpx;
+    padding-top: 20rpx;
+    overflow: hidden
+}
+.content_title>text:last-child{
+    margin-left: 70rpx;
+}
+.content_last{
+    display: flex;
+    justify-content: space-between;
+    color: #848484;
+}
+.read{
+    background: #00acc0;
+    color: #fff;
+    padding: 0 20rpx;
+    border-radius: 10rpx;
+}

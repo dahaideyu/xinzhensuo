@@ -1,0 +1,29 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="162AD4C0-140D-E911-A19D-60F81DB12488" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="4">
+    <control controlID="AC1360C9-140D-E911-A19D-60F81DB12488" controlTypeID="Shape" x="30" y="60" w="311" h="122" zOrder="0">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+    </control>
+    <control controlID="BA9FB0CF-140D-E911-A19D-60F81DB12488" controlTypeID="Label" x="45" y="75" w="76" h="18" zOrder="1">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>138****7738</text>
+      <lineSpacing>0</lineSpacing>
+    </control>
+    <control controlID="C6F121D8-140D-E911-A19D-60F81DB12488" controlTypeID="Label" x="47" y="112" w="70" h="20" zOrder="2">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>%E6%B4%97%E7%89%99%E5%8D%A1%E5%8D%A1%E5%8C%85</text>
+      <lineSpacing>0</lineSpacing>
+    </control>
+    <control controlID="6CD9E8EC-140D-E911-A19D-60F81DB12488" controlTypeID="Button" x="45" y="211" w="275" h="43" zOrder="3">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>%E6%A0%B8%E9%94%80</text>
+      <lineSpacing>0</lineSpacing>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

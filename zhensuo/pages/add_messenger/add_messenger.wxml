@@ -1,0 +1,11 @@
+<view class='wrap'>
+    <view class='title'>信差扫描下方二维码实现注册</view>
+    <view>
+        <image src='../../status/19.jpg' class='erweima'></image>
+    </view>
+    <view class='btn'>
+        <button hover-class='actives' class='active' bindtap='saveImaer'>保存至相册</button>
+        <button hover-class='actives'  class='active'>分享</button>
+    </view>
+</view>
+<button class='add' hover-class='add1' >手动添加信差</button>

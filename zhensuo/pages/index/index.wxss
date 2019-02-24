@@ -1,0 +1,52 @@
+/**index.wxss**/
+page{
+    background: #f4f4f4
+}
+.wrap{
+    font-size: 20rpx;
+    height: 100rpx;
+    background: #00acc0;
+}
+ 
+.head_portrait{
+    width: 150rpx;
+    height: 150rpx;
+    float: left;
+    border-radius: 50%;
+    margin-left: 25rpx
+}
+ 
+.button-hover{
+    background: #00acc0;
+    color: #fff;
+}
+.apply{
+   /* position: absolute;*/
+    bottom: 0;
+    background: #ccacc0;
+    width: 100%;
+    text-align: center;
+    color: #fff;
+    font-size: 35rpx;
+    height: 100rpx;
+    line-height: 100rpx;
+}
+
+button{
+    border: none;
+    border-radius: 0
+}
+button::after{
+    border: none;
+}
+.btn {
+
+    width: 90%;
+  
+    margin-top: 30rpx;
+  
+    background-color: #FFCC00;
+  
+    color: #FFF;
+  
+  }

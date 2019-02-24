@@ -1,0 +1,167 @@
+page {
+    background: #f4f4f4;
+}
+
+.title {
+    background: #00acc0;
+    padding: 30rpx;
+    overflow: hidden;
+}
+
+.img {
+    background: #fff;
+    width: 40rpx;
+    height: 40rpx;
+    border-radius: 50%;
+    float: left;
+}
+
+.img>image {
+    width: 100%;
+    height: 100%;
+}
+
+.title_name {
+    float: left;
+    color: #fff;
+    font-size: 30rpx;
+    padding-left: 30rpx;
+}
+
+/* liebiao */
+.wrapfirst{
+    background: #fff;
+    width: 96%;
+    margin: 0 auto;
+    border-radius: 5rpx;
+    margin-top: 30rpx;
+}
+
+.xbq-express {
+    width: 100%;
+    background: white;
+    margin-top: -10rpx;
+    border-top-left-radius: 10rpx;
+    border-top-right-radius: 10rpx;
+}
+
+.xbq-greencar {
+    width: 50rpx;
+    height: 50rpx;
+    background: green;
+    margin-top: 20rpx;
+    margin-left: 20rpx;
+    float: left;
+}
+
+.xbqsf {
+    width: 600rpx;
+    height: 50rpx;
+    float: left;
+    margin-left: 20rpx;
+    margin-top: 20rpx;
+}
+
+.kuaidiInfo {
+    background: #fff;
+    width: 100%;
+    height: 220rpx;
+    margin-top: 30rpx;
+}
+
+.kuaidiInfo .kuaidiIcon {
+    float: left;
+    width: 120rpx;
+    height: 120rpx;
+    margin: 50rpx;
+}
+
+.kuaidiInfo .kuaidiIcon image {
+    width: 100%;
+    height: 100%;
+}
+
+.kuaidiInfo .kuaidiDetails {
+    float: left;
+    margin-top: 33rpx;
+}
+
+.kuaidiInfo .kuaidiDetails .company {
+    line-height: 70rpx;
+}
+
+.kuaidiInfo .kuaidiDetails .satus {
+    color: #f23b4d;
+}
+
+.xbq-bar {
+    width: 100%;
+    height: 20rpx;
+    background: #f3f3f3;
+}
+
+/*物理跟踪*/
+
+.kuaidi_follow {
+    width: 100%;
+    background: #fff;
+    padding-left: 160rpx;
+    box-sizing: border-box;
+    font-size: 30rpx;
+}
+
+.kuaidi_follow .follow_satus {
+    border-left: 1px dotted #ccc
+}
+
+.kuaidi_follow .follow_satus .follow_address {
+    margin: 0 20rpx;
+    padding-bottom: 25rpx;
+    position: relative;
+    font-size: 25rpx;
+    margin-top: 10rpx;
+}
+
+.kuaidi_follow .follow_satus .follow_address .address {
+    line-height:60rpx;
+}
+
+.kuaidi_follow .follow_satus .follow_address .label {
+    width: 25rpx;
+    height: 25rpx;
+    border-radius: 50%;
+    position: absolute;
+    left: -32rpx;
+   top: 25rpx;
+    background: #d5d5d5;
+}
+
+.kuaidi_follow .follow_satus .follow_address .label.default {
+    background: #00acc0;
+}
+
+.date{
+    font-size: 28rpx;
+    position: absolute;
+    left: -175rpx;
+    top: 20rpx;
+    padding: 0rpx 10rpx;
+    text-align: center;
+    color: #666
+}
+.default_date{
+    color: #00acc0;
+}
+.date>text{
+    display: block
+}
+.lst{
+    display: flex;
+    justify-content: space-between;
+    padding:0rpx 30rpx;
+    line-height: 80rpx;
+}
+.lst>text{
+    color: #666;
+    font-size: 30rpx;
+}

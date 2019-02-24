@@ -1,0 +1,74 @@
+/**index.wxss**/
+page{
+    background: #f4f4f4
+}
+
+.user_wrap{
+    margin-top: 20rpx;
+    overflow: hidden;
+}
+.click{
+    line-height: 100rpx;
+    font-size: 22rpx;
+    background: #fff;
+    color:#00acc0;
+    height: 100rpx;
+    border-top: none;
+    border-bottom: none;
+}
+.button-hover{
+    background: #00acc0;
+    color: #fff;
+}
+.apply{
+    position: absolute;
+    bottom: 0;
+    background: #00acc0;
+    width: 100%;
+    text-align: center;
+    color: #fff;
+    font-size: 35rpx;
+    height: 100rpx;
+    line-height: 100rpx;
+}
+.clickone{
+    background: #fff;
+    color: #00acc0;
+}
+button{
+    border: none;
+    border-radius: 0
+}
+button::after{
+    border: none;
+}
+.user_list{
+    padding-left: 30rpx;
+    padding-right: 30rpx;
+    background: #fff;
+    display: flex;
+    display: -webkit-flex;
+    justify-content: flex-start;
+    height: 100rpx;
+    line-height: 100rpx;
+    font-size: 30rpx;
+    border-top: 1px solid #eee;
+}
+.user_list>image{
+    width: 70rpx;
+    height: 50rpx;
+    display: block;
+    padding-top: 30rpx;
+}
+.user_list>text{
+    width: 200rpx;
+    color: grey;
+    padding-top: 5rpx;
+    padding-left: 10rpx;
+}
+.user_list>input{
+    height: 100%;
+    width: 90%;
+    text-align: right;
+    padding-left: 10rpx;
+}

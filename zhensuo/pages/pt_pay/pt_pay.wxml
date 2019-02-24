@@ -1,0 +1,19 @@
+<view class='title'>
+    <view>￥23552125.51</view>
+    <view class='add'>订单总额</view>
+</view>
+<view class="pagee">
+    <view class="page__bd">
+        <view class='left'>
+            <image src='../../status/20.jpg'></image>
+            <text class='name'>微信支付</text>
+        </view>
+        <view class="section section_gap">
+            <radio-group class="radio-group" bindchange="radioChange">
+                <radio class="radio" bindtap="bindtap1" wx:for-items="{{items}}" wx:key="name" value="{{item.name}}" checked="{{item.checked}}">
+                </radio>
+            </radio-group>
+        </view>
+    </view>
+</view>
+<button class='btn'>确认支付</button>

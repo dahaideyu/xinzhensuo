@@ -1,0 +1,24 @@
+<view class='wrap'>
+    <view class='title'>
+        <image class='head_portrait' src='http://img0.imgtn.bdimg.com/it/u=2369759387,2979550271&fm=26&gp=0.jpg'></image>
+        <view class='user_name'>
+            <text>马冬梅</text>
+            <text class='applay_ok'>已认证</text>
+        </view>
+
+    </view>
+</view>
+<view class='user_wrap'>
+    <view class='user_list users_name'>
+        <text>姓名:</text>
+        <text>马冬梅</text>
+    </view>
+    <view class='user_list users_idcar'>
+        <text>身份证号码:</text>
+        <text>1234567891011121314</text>
+    </view>
+    <view class='user_list users_phone'>
+        <text>手机号码：</text>
+       <text>12345678910</text>
+    </view>
+</view>

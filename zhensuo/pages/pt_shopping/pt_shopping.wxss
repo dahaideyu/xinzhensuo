@@ -1,0 +1,155 @@
+page {
+    background: #f4f4f4;
+}
+
+.title {
+    background: #00acc0;
+    padding: 30rpx;
+    display: flex;
+    justify-content: space-between;
+}
+
+.list>image {
+    width: 30rpx;
+    height: 40rpx;
+    float: left;
+    padding-top: 10rpx;
+}
+
+.right>image {
+    width: 30rpx;
+    height: 40rpx;
+}
+
+.list>text {
+    color: #fff;
+    font-size: 30rpx;
+    padding-left: 30rpx;
+}
+
+.user {
+    color: #fff;
+    font-size: 30rpx;
+    line-height: 80rpx;
+}
+
+.user>text {
+    margin-left: 60rpx;
+}
+
+.right>image {
+    padding-top: 50rpx;
+}
+
+.list_wrap {
+    background: #fff;
+    overflow: hidden;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+    margin-top: -10rpx
+}
+
+.item {
+    padding: 20rpx;
+    display: flex;
+    justify-content: space-between;
+    line-height: 60rpx;
+    font-size: 30rpx;
+    border-bottom: 1px solid #eee;
+    color: #666;
+    width: 100%;
+}
+.right_item{
+    margin-right: 50rpx;
+}
+.right_item>image{
+    width: 20rpx;
+    height: 30rpx;
+    float: right;
+    margin-top: 18rpx;
+}
+.add{
+    text-align: right;
+    line-height: 100rpx;
+    padding-right: 30rpx;
+    color: #666;
+}
+.add1{
+    font-size: 30rpx;
+    padding-right: 20rpx;
+}
+.btn{
+    display: flex;
+    position: fixed;
+    bottom: 0;
+    line-height: 100rpx;
+    right: 0;
+    width: 100%;
+    background: #fff;
+    height: 100rpx;
+}
+.btn>view:first-child{
+    width: 70%;
+    text-align: right;
+}
+.btn>view:last-child{
+    text-align: center;
+    width: 30%;
+    background: #00acc0;
+    color: #fff;
+    font-size: 30rpx;
+}
+.price_add{
+    font-size: 30rpx;
+    color: #666
+}
+.price_add1{ 
+    color: #ff001c;
+    padding-right: 30rpx;
+}
+/* 下拉 */
+.select_box{
+  background: #fff;
+  position: relative;
+}
+.select{
+  box-sizing: border-box;
+  width: 100%;
+  height: 70rpx;
+  border-radius: 8rpx;
+  display: flex;
+  align-items: center;
+  padding: 0 20rpx;
+}
+.select_text{
+  font-size: 30rpx;
+  flex: 1;
+}
+.select_img{
+  width: 20rpx;
+  height: 30rpx;
+  display: block;
+  transition:transform 0.3s;
+}
+.select_img_rotate{
+  transform:rotate(180deg); 
+}
+.option_box{
+  position: absolute;
+  top: 70rpx;
+  width: 100%;
+  border:1px solid #efefef;
+  box-sizing: border-box;
+  height: 0;
+  overflow-y: auto;
+  border-top: 0;
+  background: #fff;
+  transition: height 0.3s;
+}
+.option{
+  display: block;
+  line-height: 40rpx;
+  font-size: 30rpx;
+  border-bottom: 1px solid #efefef;
+  padding: 10rpx;
+}

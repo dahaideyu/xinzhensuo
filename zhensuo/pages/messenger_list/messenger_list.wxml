@@ -1,0 +1,59 @@
+<!--pages/ profit.wxml-->
+<view class='wrap'>
+    <view class='list'>
+        <view class='title'>
+            <text class='clinic_name'>马冬梅</text>
+             <view class='time'>
+                <text>2018-10-10</text>
+                <text class='hour'>10:10</text>
+            </view>
+        </view>
+        <view class='amount'>
+            <text>联系电话：</text>
+            <text>123****910</text>
+        </view>
+
+    </view>
+    <view class='list'>
+        <view class='title'>
+            <text class='clinic_name'>马冬梅</text>
+             <view class='time'>
+                <text>2018-10-10</text>
+                <text class='hour'>10:10</text>
+            </view>
+        </view>
+        <view class='amount'>
+            <text>联系电话：</text>
+            <text>123****910</text>
+        </view>
+
+    </view>
+    <view class='list'>
+        <view class='title'>
+            <text class='clinic_name'>马冬梅</text>
+             <view class='time'>
+                <text>2018-10-10</text>
+                <text class='hour'>10:10</text>
+            </view>
+        </view>
+        <view class='amount'>
+            <text>联系电话：</text>
+            <text>123****910</text>
+        </view>
+    </view>
+    <view class='list'>
+        <view class='title'>
+            <text class='clinic_name'>马冬梅</text>
+             <view class='time'>
+                <text>2018-10-10</text>
+                <text class='hour'>10:10</text>
+            </view>
+        </view>
+        <view class='amount'>
+            <text>联系电话：</text>
+            <text>123****910</text>
+        </view>
+
+    </view>
+   
+</view>

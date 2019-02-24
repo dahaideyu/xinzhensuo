@@ -1,0 +1,39 @@
+page{
+    background: #f4f4f4
+}
+.right{
+    width: 40rpx;
+    height: 40rpx;
+    float: right;
+    margin-top: 40rpx;
+}
+.item{
+    overflow: hidden;
+    margin-top: 30rpx;
+    background: #fff;
+    border-bottom:1px solid #eee; 
+    padding:20rpx 30rpx 10rpx 30rpx;
+}
+.left{
+    float: left;
+    font-size: 30rpx;
+}
+.left_top>text:last-child{
+    color: #666;
+    padding-left: 50rpx;
+}
+.left_botton{
+    color: #666;
+    line-height: 100rpx;
+}
+.last{
+    position: fixed;
+    bottom: 0;
+    background: #00acc0;
+    width: 100%;
+    border-radius: 0;
+    border: none;
+    color: #fff;
+    line-height: 100rpx;
+    text-align: center;
+}

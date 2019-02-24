@@ -1,0 +1,9 @@
+<view>
+
+    <view class='erweima'>
+        <image src='../../status/19.jpg'></image>
+    </view>
+    <view class='tex'>
+        <text>请出示二维码</text>
+    </view>
+</view>

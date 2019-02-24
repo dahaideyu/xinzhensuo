@@ -1,0 +1,56 @@
+/* pages/ profit.wxss */
+page{
+    background: #f4f4f4
+}
+.wrap{
+    margin-top: 30rpx;
+   
+}
+.list{
+    background: #fff;
+     padding:0 30rpx;
+     margin-bottom: 30rpx;
+}
+.title{
+    line-height: 80rpx;
+    display: block;
+    min-height: 80rpx;
+    display: flex;
+    display: -webkit-flex;
+    justify-content: space-between
+}
+.clinic_name{
+    color: #00acc0;
+    font-size: 35rpx;
+}
+.clinic_money{
+    color: #666;
+    font-size: 30rpx;
+}
+.content{
+    display: flex;
+    display: -webkit-flex;
+    justify-content: space-between;
+}
+.amount{
+    color: #666;
+    font-size: 30rpx;
+    line-height: 70rpx;
+    display: flex;
+    justify-content: space-between
+}
+
+.hour{
+    margin-left: 30rpx;
+}
+.time{
+     font-size: 30rpx;
+    color: red;
+}
+.time1{
+    font-size: 30rpx;
+    color: #666;
+}
+.amount>view:first-child{
+    font-size:30rpx; 
+}

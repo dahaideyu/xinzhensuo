@@ -1,0 +1,54 @@
+<view class='title'>
+    <view class='img'>
+        <image src='../../status/i.png'></image>
+    </view>
+    <text class='title_name'>退货待发货</text>
+</view>
+<view class='content'>
+    <view class='content_title'>
+        <view class='left1'>
+            <image src='http://photo.l99.com/bigger/fe7/1465711030390_ej3r7g.jpg'></image>
+        </view>
+        <view class='right1'>
+            <text>活性炭生物活性齿白凝胶</text>
+            <text>￥1221220.23</text>
+        </view>
+    </view>
+</view>
+<view class='text_add'>
+    <text>已使用产品不支持退货</text>
+    <text>类型：退货</text>
+</view>
+<view class='item_list'>
+    <view class='list_add'>
+        <text>收件地址：</text>
+        <text>马栏山狗蛋坡十号楼五十层1205号</text>
+    </view>
+    <view class='list_add'>
+        <text>联系电话</text>
+        <text>120144212144</text>
+    </view>
+    <view class='item item_warap'>
+        <view>
+            <text>快递公司</text>
+        </view>
+        <view class='right_item'>
+            <view class='select_box'>
+                <view class='select' catchtap='selectTap'>
+                    <text class='select_text'>{{selectData[index]}}</text>
+                    <image class='select_img {{show&&"select_img_rotate"}}' src='../../status/6.jpg'></image>
+                </view>
+                <view class='option_box' style='height:{{show?(selectData.length>5?300:selectData.length*60):0}}rpx;'>
+                    <text class='option' style='{{index==selectData.length-1&&"border:0;"}}' wx:for='{{selectData}}' wx:key='this' data-index='{{index}}' catchtap='optionTap'>{{item}}</text>
+                </view>
+            </view>
+        </view>
+    </view>
+    <view class='list_add'>
+        <text>快递单号</text>
+        <text>121324654687112316</text>
+    </view>
+</view>
+<view class='btn'>
+   提交
+</view>

@@ -1,0 +1,101 @@
+page{
+    background: #f4f4f4
+}
+.item_list{
+    background: #fff;
+    overflow: hidden
+}
+.title{
+    position: relative;
+    width: 95%;
+    margin: 0 auto;
+    background: #00acc0;
+    border-radius: 10rpx;
+    min-height: 305rpx;
+    margin-top: 20rpx;
+}
+.dateto{
+    position: absolute;
+    bottom: 10rpx;
+    font-size: 25rpx;
+    color: #fff;
+    padding-left: 30rpx;
+    padding-bottom: 10rpx;
+}
+
+.last{
+    width: 95%;
+    margin: 0 auto;
+    line-height: 60rpx;
+    overflow: hidden;
+    margin-top: 30rpx;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 20rpx;
+    font-size: 30rpx;
+    color: #666;
+}
+.build>text{
+    display: block;
+    font-size: 30rpx;
+    color: #ff0651;
+    
+}
+.last>text{
+    display: block
+}
+#last_titile{
+    font-size: 35rpx;
+    color: #00acc0;
+    line-height: 80rpx;
+}
+button{
+    background: #00acc0;
+    position: fixed;
+    width: 100%;
+    color: #fff;
+    bottom: 0;
+    border-radius: 0;
+    text-align: center;
+    line-height: 100rpx;
+}
+.item_wrap>view{
+    display: flex;
+    padding: 30rpx;
+    justify-content: space-between;
+    font-size: 30rpx;
+    color: #666;
+}
+.add_number{
+    padding: 20rpx 30rpx;
+}
+.add_number>text{
+    float: right;
+    color: #666;
+    line-height: 100rpx;
+}
+.add_number>text:first-child{
+    font-size: 35rpx;
+    padding-left: 20rpx;
+}
+.add_number>text:last-child{
+    font-size: 30rpx;
+}
+.btn_wrap{
+    position: fixed;
+    width: 100%;
+    line-height: 100rpx;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    bottom: 0;
+    background: #fff;
+}
+.btn_wrap>view{
+    width: 50%;
+    font-size: 35rpx;
+    color: #00acc0
+}
+.btn_wrap>view:last-child{
+    background: #00acc0;
+    color: #fff;
+}

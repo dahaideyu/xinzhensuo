@@ -1,0 +1,23 @@
+<view class='title'>
+    <view class='img'>
+        <image src='../../status/24.jpg'></image>
+    </view>
+    <view class='jifen'>
+        <view>当前积分</view>
+        <view>
+            <em>1999953235</em>
+        </view>
+    </view>
+</view>
+<view class='rule'>
+    <view class='wrap'>
+        <view class='left'>
+            <image src='../../status/24.jpg'></image>
+            <text>兑换积分</text>
+        </view>
+        <view class='right'>积分兑换规则</view>
+    </view>
+    <view class='jifen_wrap'>
+        <text class='jifennumber'>16666</text>可提现现金16666.6元</view>
+</view>
+<button>提现</button>

@@ -1,0 +1,15 @@
+<view class='list_wrap' wx:for="{{clinics}}">
+    <view class='left'  bindtap="cdetail" data-clinicId="{{item.clinicId}}">
+        <image src='{{item.clinicImage}}'></image>
+    </view>
+    <view class='right'  >
+    <view>
+        <view class='title'>
+            <text>{{item.clinicName}}</text>
+            <image src='{{item.isCollection==0?"../../status/26.jpg":"../../status/27.jpg"}}' class='red'></image>
+        </view>
+        <view class='jianj'>{{item.fullName}} </view>
+    </view>
+    </view>
+</view>
+ 

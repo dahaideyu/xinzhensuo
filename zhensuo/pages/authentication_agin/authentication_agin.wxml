@@ -1,0 +1,100 @@
+
+<view class='authentication_wrap'>
+    <view class='authentication_list authentication_name'>
+        <view class='left'>
+            <image src='../../status/11.jpg' class='icon'></image>
+            <text class='title_name'>诊所名称</text>
+            <input placeholder='请输入' class='get_value'></input>
+        </view>
+
+    </view>
+    <view class='authentication_list authentication_address'>
+        <view class='left'>
+            <image src='../../status/12.jpg' class='icon'></image>
+            <text class='title_name'>诊所地址</text>
+
+        </view>
+        <view class='right'>
+            <image src='../../status/16.jpg' class='icon_adress'></image>
+            <text class='message_click'>点击选择</text>
+            <image src='../../status/6.jpg' class='icon_adress'></image>
+        </view>
+    </view>
+    <view class='authentication_list authentication_plate'>
+        <view class='left'>
+            <text class='title_name title_plate'>门牌号</text>
+            <input placeholder='请输入' class='get_value get_value1'></input>
+        </view>
+
+    </view>
+    <view class='authentication_list authentication_image'>
+        <view class='left'>
+            <image src='../../status/13.jpg' class='icon'></image>
+            <text class='title_name'>门店形象</text>
+        </view>
+    </view>
+    <view class='question_wrap'>
+        <!-- 图片上传 -->
+        <view class="question-images-area">
+            <view class="question-images">
+                <block wx:for="{{images}}" wx:key="*this">
+                    <view class="q-image-wrap">
+                        <image class="q-image" src="{{item}}" data-idx="{{index}}" bindtap="handleImagePreview"></image>
+                        <view class="q-image-remover" data-idx="{{index}}" bindtap="removeImage">删除</view>
+                    </view>
+                </block>
+            </view>
+            <!-- 添加图片按钮  -->
+            <view class="question-images-tool">
+                <button type="default" size="mini" bindtap="chooseImage" wx:if="{{images.length < 2}}" hover-class='addImage'>添加图片</button>
+            </view>
+        </view>
+        <!-- 图片上传 -->
+    </view>
+    <view class='authentication_list authentication_introduction'>
+        <view class='left'>
+            <image src='../../status/14.jpg' class='icon'></image>
+            <text class='title_name'>诊所简介</text>
+            <input placeholder='请输入' class='get_value'></input>
+        </view>
+
+    </view>
+
+        <view class='authentication_list doctor_information'>
+        <view class='left'>
+            <image src='../../status/15.jpg' class='icon'></image>
+            <text class='title_name'>医生信息</text>
+
+        </view>
+        <view class='right'>
+            <text class='message_click'>未填写</text>
+            <image src='../../status/6.jpg' class='icon_adress'></image>
+        </view>
+    </view>
+    <view class='user_list users_name'>
+        <image src='../../status/1.jpg'></image>
+        <text>联系人</text>
+        <input placeholder='请输入'></input>
+    </view>
+
+    <view class='user_list users_idcar'>
+        <image src='../../status/2.jpg'></image>
+        <text>身份证号码</text>
+        <input placeholder='请输入'></input>
+    </view>
+
+    <view class='user_list users_phone'>
+        <image src='../../status/3.jpg'></image>
+        <text>手机号码</text>
+        <input placeholder='请输入'></input>
+    </view>
+
+    <view class='user_list users_token'>
+        <image src='../../status/4.jpg'></image>
+        <text>验证码</text>
+        <input placeholder='请输入'></input>
+        <button class='add' hover-class='add_token'>校验码</button>
+    </view>
+    
+</view>
+<button class='apply' hover-class='clickone'>（认证失败）重新认证</button>

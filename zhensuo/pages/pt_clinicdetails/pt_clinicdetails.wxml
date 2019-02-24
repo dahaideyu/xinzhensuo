@@ -1,0 +1,36 @@
+<!-- 医生头像信息简介 -->
+<view class='wrap'>
+    <view class='doctor_mss'>
+        <image src='../../status/14.jpg'></image>
+        <text class='name'>{{cdetail.clinicName}}</text>
+
+    </view>
+    <view class='doctor'>
+        <view class='txt'>
+      {{cdetail.introduction}} </view>
+        <view class='img_wrap'>
+            <image wx:for="{{cdetail.clinicImage}}" src='{{item}}'></image> 
+        </view>
+    </view>
+</view>
+
+<!-- 医生头像信息简介 -->
+<view class='wrap'>
+    <view class='doctor_mss'>
+        <image src='../../status/15.jpg'></image>
+        <text class='name'>医生信息</text>
+
+    </view>
+    <view class='doctor'>
+        <view wx:for="{{cdetail.doctors}}" class='doctor_message'>
+            <view class='head'>
+                <image src='{{item.doctorImage}}'></image>
+            </view>
+            <view class='doctor_name'>{{item.doctorName}}</view>
+            <view class='docto_text'>
+                <text class='doctos_message'>{{item.doctorDescription}}</text>
+            </view>
+        </view>
+   
+    </view>
+</view>

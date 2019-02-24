@@ -1,0 +1,91 @@
+<view class='title'>认证失败！请添加诊所详细地址重新提交认证</view>
+<view class='user_wrap'>
+    <view class='list_wrap'>
+        <view class='left'>
+            <image class='images' src='../../status/11.jpg'></image>
+            <text class='left_text'>诊所名称</text>
+        </view>
+        <view class='right'>宝芝堂</view>
+    </view>
+    <view class='list_wrap'>
+        <view class='left'>
+            <image class='images' src='../../status/12.jpg'></image>
+            <text class='left_text'>诊所地址</text>
+        </view>
+        <view class='right'>天堂街66号</view>
+    </view>
+    <view class='list_wrap user_photo'>
+        <view class='left'>
+            <image class='images' src='../../status/18.jpg'></image>
+            <text class='left_text'>门店形象</text>
+        </view>
+    </view>
+    <!-- 照片 -->
+    <view class='photo'>
+        <image src='http://t2.hddhhn.com/uploads/tu/201812/391/1.jpg'></image>
+        <image src='http://t2.hddhhn.com/uploads/tu/201812/278/20181016120920274.jpg'></image>
+    </view>
+    <!-- 照片 -->
+
+    <!-- 简介 -->
+    <view class='list_wrap list_mess'>
+        <view class='left'>
+            <image class='images' src='../../status/14.jpg'></image>
+            <text class='left_text'>诊所简介</text>
+        </view>
+    </view>
+    <view class='mess'>
+        <text>创立于2016年，深受以往病友好评，巴拉巴拉小魔仙，变身！祝大家新年快乐</text>
+    </view>
+
+
+    <view class='list_wrap list_name'>
+        <view class='left'>
+            <image class='images' src='../../status/1.jpg'></image>
+            <text class='left_text'>联系人</text>
+        </view>
+        <view class='right'>
+            <text>马冬梅</text>
+            <text style='padding-left:20rpx;'>(身份证11211*****1212)</text>
+        </view>
+    </view>
+    <view class='list_wrap'>
+        <view class='left'>
+            <image class='images' src='../../status/3.jpg'></image>
+            <text class='left_text'>手机号码</text>
+        </view>
+        <view class='right'>12345678910</view>
+    </view>
+    <view class='list_wrap doctor_mss'>
+        <view class='left'>
+            <image class='images' src='../../status/15.jpg'></image>
+            <text class='left_text'>医生信息</text>
+        </view>
+    </view>
+    <view>
+        <view class='doctor'>
+        <view class='doctor_message'>
+            <view class='head'>
+                <image src='https://ss0.bdstatic.com/94oJfD_bAAcT8t7mm9GUKT-xh_/timg?image&quality=100&size=b4000_4000&sec=1547355485&di=f8dde1f85d64e1e7b1ac45d7d2db7462&src=http://pic11.nipic.com/20101217/2531170_114745343924_2.jpg'></image>
+            </view>
+            <view class='doctor_name'>张医生</view>
+            <view class='docto_text'>
+                <text class='doctos_message'>擅长各种妇科疾病，擅长临床诊治，擅长中医药理，精通各种巴拉巴拉</text>
+            </view>
+        </view>
+        <view class='doctor_message'>
+            <view class='head'>
+                <image src='https://ss0.bdstatic.com/94oJfD_bAAcT8t7mm9GUKT-xh_/timg?image&quality=100&size=b4000_4000&sec=1547355485&di=f8dde1f85d64e1e7b1ac45d7d2db7462&src=http://pic11.nipic.com/20101217/2531170_114745343924_2.jpg'></image>
+            </view>
+            <view class='doctor_name'>张医生</view>
+            <view class='docto_text'>
+                <text class='doctos_message'>擅长各种妇科疾病，擅长临床诊治，擅长中医药理，精通各种巴拉巴拉</text>
+            </view>
+        </view>
+    </view>
+    
+    </view>
+
+ 
+</view>
+<button class='agen' hover-class='agen_last'>重新认证</button>

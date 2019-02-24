@@ -1,0 +1,14 @@
+<view class='wrap'>
+
+    <view class='car'>
+        <view class='left'>
+            <image src='../../status/35.jpg'></image>
+        </view>
+        <view class='right'>
+            <text>洗牙卡卡包</text>
+            <text>138****1211</text>
+        </view>
+    </view>
+
+</view>
+<button>核销</button>
