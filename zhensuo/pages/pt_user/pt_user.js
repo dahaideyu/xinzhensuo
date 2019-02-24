@@ -214,6 +214,13 @@ Page({
         console.log("success:")
         console.log(res); 
         if (res.data.code == "200") {
+          if(!!res.data.data.hot&&res.data.data.hot.length>0){
+            var hotlist=res.data.data.hot;
+            for(var i=0;i<hotlist.length;i++){
+              hotlist[i].price=  (hotlist[i].price/100.0).toFixed(2);
+            }
+          }
+          
           that.setData({
             clinics: res.data.data.clinic,
             hots: res.data.data.hot

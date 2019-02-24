@@ -21,6 +21,9 @@ Page({
         wx.setNavigationBarTitle({
             title: '申请认证',
         })
+        qqmapsdk = new QQMapWX({
+            key: 'M6RBZ-YVPWO-UKGW5-SH5ZP-GTDH5-W3FSC' //这里自己的key秘钥进行填充
+          });
     },
 
     handleTitleInput(e) {

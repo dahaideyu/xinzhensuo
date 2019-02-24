@@ -14,6 +14,8 @@
 	"compileType": "miniprogram",
 	"libVersion": "2.4.4",
 	"appid": "wxda1b58214c1532ea",
+	"zsappid":"wx31e5f1f022e95998",
+	"zjappid":"wxda1b58214c1532ea", 
 	"projectname": "%E8%AF%8A%E6%89%80",
 	"debugOptions": {
 		"hidedInDevtools": []

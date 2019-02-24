@@ -1,9 +1,10 @@
 {
   "pages": [
+    "pages/pt_user/pt_user",
     "pages/pt_my/pt_my",
     "pages/clinic_revenue/clinic_revenue",
     "pages/index1/index1",
-    "pages/pt_user/pt_user",
+    
     "pages/profit/profit",
     "pages/index/index",
     "pages/xc7/xc7",

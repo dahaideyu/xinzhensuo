@@ -35,10 +35,10 @@
         <view class='product_right' style='width:68%'>
             <view class='prodcut_title'>{{item.goodsName}}</view>
             <view class='wrap'>
-                <text class='prodcut_price'>￥{{item.price/100.0}}</text>
+                <text class='prodcut_price'>￥{{item.price}}</text>
                 <text class='prodcut_number'>售出{{item.sellCount}}件</text>
             </view>
-            <view class='product_last' wx:if='{{item.stockCount<1}}'>库存不足</view>
+            <view class='product_last' >{{item.stockCount>9?"库存充足":item.stockCount}}</view>
         </view>
     </view>
 

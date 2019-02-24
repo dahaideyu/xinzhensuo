@@ -69,7 +69,7 @@
             <text class='price_add1'>￥{{pdetail.goodsprice+transprice}}</text>
         </view>
     </view>
-    <view>提交订单</view>
+    <view bindtap="creatOrder">提交订单</view>
 </view>
 
  <!--收货地址弹窗-->

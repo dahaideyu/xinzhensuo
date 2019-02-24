@@ -1,3 +1,4 @@
+const app = getApp();
 Page({
 
   /**
@@ -7,7 +8,47 @@ Page({
       items: [
           { name: 'wx', value: '微信支付', checked: false },
       ],
-      aa: 'wx'
+      aa: 'wx',
+      orderdetail:{}
+  },
+  getorderdetail:function(orderid){
+debugger;
+    let that=this;
+    var data= {
+        "ordreId": orderid
+      }
+        wx.request({
+          url: app.globalData.BaseUrl + 'order/detail',
+          method: 'Post',
+          data: data,
+          header: {
+            'content-type': 'application/json' // 默认值
+          },
+          success: function (res) {
+            console.log("success:")
+            console.log(res); 
+            if (res.data.code == "200") {
+              that.setData({ 
+                orderdetail:res.data.data
+              }) 
+            } else {
+              wx.showToast({
+                title: '获取失败' + res.data.message,
+                icon: 'success',
+                duration: 2000
+              });
+            }
+          },
+          fail: function (error) {
+            console.log("fail log:");
+            console.log(error);
+            //   wx.hideLoading();
+            // reject(false)
+          },
+          complete: function () {
+            //  wx.hideLoading();
+          }
+        })
   },
     bindtap1: function (e) {
         var items = this.data.items;
@@ -39,7 +80,8 @@ Page({
   onLoad: function (options) {
     wx.setNavigationBarTitle({
         title: '订单支付',
-    })
+    });
+    this.getorderdetail(options.orderid);
   },
 
   /**
